@@ -1,0 +1,3532 @@
+,date,type,value
+0,2020-02-15,Retail & Recreation,0.0
+1,2020-02-16,Retail & Recreation,-3.0
+2,2020-02-17,Retail & Recreation,0.0
+3,2020-02-18,Retail & Recreation,2.0
+4,2020-02-19,Retail & Recreation,1.0
+5,2020-02-20,Retail & Recreation,3.0
+6,2020-02-21,Retail & Recreation,1.0
+7,2020-02-22,Retail & Recreation,-4.0
+8,2020-02-23,Retail & Recreation,-13.0
+9,2020-02-24,Retail & Recreation,-7.0
+10,2020-02-25,Retail & Recreation,-13.0
+11,2020-02-26,Retail & Recreation,-16.0
+12,2020-02-27,Retail & Recreation,-12.0
+13,2020-02-28,Retail & Recreation,-10.0
+14,2020-02-29,Retail & Recreation,-14.0
+15,2020-03-01,Retail & Recreation,-14.0
+16,2020-03-02,Retail & Recreation,-14.0
+17,2020-03-03,Retail & Recreation,-3.0
+18,2020-03-04,Retail & Recreation,-5.0
+19,2020-03-05,Retail & Recreation,-14.0
+20,2020-03-06,Retail & Recreation,-15.0
+21,2020-03-07,Retail & Recreation,-18.0
+22,2020-03-08,Retail & Recreation,-33.0
+23,2020-03-09,Retail & Recreation,-30.0
+24,2020-03-10,Retail & Recreation,-45.0
+25,2020-03-11,Retail & Recreation,-52.0
+26,2020-03-12,Retail & Recreation,-70.0
+27,2020-03-13,Retail & Recreation,-74.0
+28,2020-03-14,Retail & Recreation,-84.0
+29,2020-03-15,Retail & Recreation,-91.0
+30,2020-03-16,Retail & Recreation,-75.0
+31,2020-03-17,Retail & Recreation,-77.0
+32,2020-03-18,Retail & Recreation,-79.0
+33,2020-03-19,Retail & Recreation,-79.0
+34,2020-03-20,Retail & Recreation,-80.0
+35,2020-03-21,Retail & Recreation,-86.0
+36,2020-03-22,Retail & Recreation,-95.0
+37,2020-03-23,Retail & Recreation,-81.0
+38,2020-03-24,Retail & Recreation,-82.0
+39,2020-03-25,Retail & Recreation,-83.0
+40,2020-03-26,Retail & Recreation,-84.0
+41,2020-03-27,Retail & Recreation,-84.0
+42,2020-03-28,Retail & Recreation,-87.0
+43,2020-03-29,Retail & Recreation,-95.0
+44,2020-03-30,Retail & Recreation,-83.0
+45,2020-03-31,Retail & Recreation,-91.0
+46,2020-04-01,Retail & Recreation,-90.0
+47,2020-04-02,Retail & Recreation,-90.0
+48,2020-04-03,Retail & Recreation,-85.0
+49,2020-04-04,Retail & Recreation,-89.0
+50,2020-04-05,Retail & Recreation,-96.0
+51,2020-04-06,Retail & Recreation,-83.0
+52,2020-04-07,Retail & Recreation,-82.0
+53,2020-04-08,Retail & Recreation,-82.0
+54,2020-04-09,Retail & Recreation,-81.0
+55,2020-04-10,Retail & Recreation,-81.0
+56,2020-04-11,Retail & Recreation,-86.0
+57,2020-04-12,Retail & Recreation,-96.0
+58,2020-04-13,Retail & Recreation,-96.0
+59,2020-04-14,Retail & Recreation,-81.0
+60,2020-04-15,Retail & Recreation,-81.0
+61,2020-04-16,Retail & Recreation,-80.0
+62,2020-04-17,Retail & Recreation,-81.0
+63,2020-04-18,Retail & Recreation,-85.0
+64,2020-04-19,Retail & Recreation,-95.0
+65,2020-04-20,Retail & Recreation,-83.0
+66,2020-04-21,Retail & Recreation,-81.0
+67,2020-04-22,Retail & Recreation,-79.0
+68,2020-04-23,Retail & Recreation,-78.0
+69,2020-04-24,Retail & Recreation,-76.0
+70,2020-04-25,Retail & Recreation,-96.0
+71,2020-04-26,Retail & Recreation,-93.0
+72,2020-04-27,Retail & Recreation,-76.0
+73,2020-04-28,Retail & Recreation,-80.0
+74,2020-04-29,Retail & Recreation,-76.0
+75,2020-04-30,Retail & Recreation,-74.0
+76,2020-05-01,Retail & Recreation,-95.0
+77,2020-05-02,Retail & Recreation,-80.0
+78,2020-05-03,Retail & Recreation,-92.0
+79,2020-05-04,Retail & Recreation,-62.0
+80,2020-05-05,Retail & Recreation,-63.0
+81,2020-05-06,Retail & Recreation,-65.0
+82,2020-05-07,Retail & Recreation,-63.0
+83,2020-05-08,Retail & Recreation,-65.0
+84,2020-05-09,Retail & Recreation,-68.0
+85,2020-05-10,Retail & Recreation,-80.0
+86,2020-05-11,Retail & Recreation,-62.0
+87,2020-05-12,Retail & Recreation,-59.0
+88,2020-05-13,Retail & Recreation,-68.0
+89,2020-05-14,Retail & Recreation,-59.0
+90,2020-05-15,Retail & Recreation,-61.0
+91,2020-05-16,Retail & Recreation,-67.0
+92,2020-05-17,Retail & Recreation,-73.0
+93,2020-05-18,Retail & Recreation,-43.0
+94,2020-05-19,Retail & Recreation,-45.0
+95,2020-05-20,Retail & Recreation,-44.0
+96,2020-05-21,Retail & Recreation,-45.0
+97,2020-05-22,Retail & Recreation,-46.0
+98,2020-05-23,Retail & Recreation,-45.0
+99,2020-05-24,Retail & Recreation,-46.0
+100,2020-05-25,Retail & Recreation,-34.0
+101,2020-05-26,Retail & Recreation,-35.0
+102,2020-05-27,Retail & Recreation,-35.0
+103,2020-05-28,Retail & Recreation,-35.0
+104,2020-05-29,Retail & Recreation,-37.0
+105,2020-05-30,Retail & Recreation,-37.0
+106,2020-05-31,Retail & Recreation,-41.0
+107,2020-06-01,Retail & Recreation,-17.0
+108,2020-06-02,Retail & Recreation,-37.0
+109,2020-06-03,Retail & Recreation,-37.0
+110,2020-06-04,Retail & Recreation,-37.0
+111,2020-06-05,Retail & Recreation,-28.0
+112,2020-06-06,Retail & Recreation,-30.0
+113,2020-06-07,Retail & Recreation,-40.0
+114,2020-06-08,Retail & Recreation,-35.0
+115,2020-06-09,Retail & Recreation,-32.0
+116,2020-06-10,Retail & Recreation,-24.0
+117,2020-06-11,Retail & Recreation,-29.0
+118,2020-06-12,Retail & Recreation,-30.0
+119,2020-06-13,Retail & Recreation,-34.0
+120,2020-06-14,Retail & Recreation,-25.0
+121,2020-06-15,Retail & Recreation,-21.0
+122,2020-06-16,Retail & Recreation,-24.0
+123,2020-06-17,Retail & Recreation,-25.0
+124,2020-06-18,Retail & Recreation,-21.0
+125,2020-06-19,Retail & Recreation,-18.0
+126,2020-06-20,Retail & Recreation,-24.0
+127,2020-06-21,Retail & Recreation,-29.0
+128,2020-06-22,Retail & Recreation,-19.0
+129,2020-06-23,Retail & Recreation,-16.0
+130,2020-06-24,Retail & Recreation,-16.0
+131,2020-06-25,Retail & Recreation,-20.0
+132,2020-06-26,Retail & Recreation,-22.0
+133,2020-06-27,Retail & Recreation,-29.0
+134,2020-06-28,Retail & Recreation,-28.0
+135,2020-06-29,Retail & Recreation,-17.0
+136,2020-06-30,Retail & Recreation,-15.0
+137,2020-07-01,Retail & Recreation,-18.0
+138,2020-07-02,Retail & Recreation,-16.0
+139,2020-07-03,Retail & Recreation,-26.0
+140,2020-07-04,Retail & Recreation,-23.0
+141,2020-07-05,Retail & Recreation,-29.0
+142,2020-07-06,Retail & Recreation,-17.0
+143,2020-07-07,Retail & Recreation,-14.0
+144,2020-07-08,Retail & Recreation,-15.0
+145,2020-07-09,Retail & Recreation,-17.0
+146,2020-07-10,Retail & Recreation,-22.0
+147,2020-07-11,Retail & Recreation,-26.0
+148,2020-07-12,Retail & Recreation,-28.0
+149,2020-07-13,Retail & Recreation,-17.0
+150,2020-07-14,Retail & Recreation,-15.0
+151,2020-07-15,Retail & Recreation,-15.0
+152,2020-07-16,Retail & Recreation,-14.0
+153,2020-07-17,Retail & Recreation,-19.0
+154,2020-07-18,Retail & Recreation,-23.0
+155,2020-07-19,Retail & Recreation,-28.0
+156,2020-07-20,Retail & Recreation,-17.0
+157,2020-07-21,Retail & Recreation,-16.0
+158,2020-07-22,Retail & Recreation,-19.0
+159,2020-07-23,Retail & Recreation,-15.0
+160,2020-07-24,Retail & Recreation,-19.0
+161,2020-07-25,Retail & Recreation,-24.0
+162,2020-07-26,Retail & Recreation,-27.0
+163,2020-07-27,Retail & Recreation,-16.0
+164,2020-07-28,Retail & Recreation,-17.0
+165,2020-07-29,Retail & Recreation,-16.0
+166,2020-07-30,Retail & Recreation,-17.0
+167,2020-07-31,Retail & Recreation,-20.0
+168,2020-08-01,Retail & Recreation,-30.0
+169,2020-08-02,Retail & Recreation,-30.0
+170,2020-08-03,Retail & Recreation,-19.0
+171,2020-08-04,Retail & Recreation,-13.0
+172,2020-08-05,Retail & Recreation,-15.0
+173,2020-08-06,Retail & Recreation,-17.0
+174,2020-08-07,Retail & Recreation,-25.0
+175,2020-08-08,Retail & Recreation,-35.0
+176,2020-08-09,Retail & Recreation,-38.0
+177,2020-08-10,Retail & Recreation,-25.0
+178,2020-08-11,Retail & Recreation,-25.0
+179,2020-08-12,Retail & Recreation,-30.0
+180,2020-08-13,Retail & Recreation,-29.0
+181,2020-08-14,Retail & Recreation,-33.0
+182,2020-08-15,Retail & Recreation,-65.0
+183,2020-08-16,Retail & Recreation,-48.0
+184,2020-08-17,Retail & Recreation,-33.0
+185,2020-08-18,Retail & Recreation,-31.0
+186,2020-08-19,Retail & Recreation,-33.0
+187,2020-08-20,Retail & Recreation,-34.0
+188,2020-08-21,Retail & Recreation,-38.0
+189,2020-08-22,Retail & Recreation,-43.0
+190,2020-08-23,Retail & Recreation,-39.0
+191,2020-08-24,Retail & Recreation,-27.0
+192,2020-08-25,Retail & Recreation,-24.0
+193,2020-08-26,Retail & Recreation,-25.0
+194,2020-08-27,Retail & Recreation,-24.0
+195,2020-08-28,Retail & Recreation,-31.0
+196,2020-08-29,Retail & Recreation,-31.0
+197,2020-08-30,Retail & Recreation,-27.0
+198,2020-08-31,Retail & Recreation,-15.0
+199,2020-09-01,Retail & Recreation,-13.0
+200,2020-09-02,Retail & Recreation,-17.0
+201,2020-09-03,Retail & Recreation,-14.0
+202,2020-09-04,Retail & Recreation,-18.0
+203,2020-09-05,Retail & Recreation,-21.0
+204,2020-09-06,Retail & Recreation,-24.0
+205,2020-09-07,Retail & Recreation,-14.0
+206,2020-09-08,Retail & Recreation,-10.0
+207,2020-09-09,Retail & Recreation,-12.0
+208,2020-09-10,Retail & Recreation,-11.0
+209,2020-09-11,Retail & Recreation,-14.0
+210,2020-09-12,Retail & Recreation,-15.0
+211,2020-09-13,Retail & Recreation,-18.0
+212,2020-09-14,Retail & Recreation,-8.0
+213,2020-09-15,Retail & Recreation,-8.0
+214,2020-09-16,Retail & Recreation,-10.0
+215,2020-09-17,Retail & Recreation,-9.0
+216,2020-09-18,Retail & Recreation,-11.0
+217,2020-09-19,Retail & Recreation,-15.0
+218,2020-09-20,Retail & Recreation,-17.0
+219,2020-09-21,Retail & Recreation,-10.0
+220,2020-09-22,Retail & Recreation,-15.0
+221,2020-09-23,Retail & Recreation,-11.0
+222,2020-09-24,Retail & Recreation,-14.0
+223,2020-09-25,Retail & Recreation,-15.0
+224,2020-09-26,Retail & Recreation,-15.0
+225,2020-09-27,Retail & Recreation,-17.0
+226,2020-09-28,Retail & Recreation,-12.0
+227,2020-09-29,Retail & Recreation,-10.0
+228,2020-09-30,Retail & Recreation,-11.0
+229,2020-10-01,Retail & Recreation,-12.0
+230,2020-10-02,Retail & Recreation,-23.0
+231,2020-10-03,Retail & Recreation,-12.0
+232,2020-10-04,Retail & Recreation,-20.0
+233,2020-10-05,Retail & Recreation,-14.0
+234,2020-10-06,Retail & Recreation,-12.0
+235,2020-10-07,Retail & Recreation,-12.0
+236,2020-10-08,Retail & Recreation,-12.0
+237,2020-10-09,Retail & Recreation,-14.0
+238,2020-10-10,Retail & Recreation,-16.0
+239,2020-10-11,Retail & Recreation,-20.0
+240,2020-10-12,Retail & Recreation,-15.0
+241,2020-10-13,Retail & Recreation,-14.0
+242,2020-10-14,Retail & Recreation,-16.0
+243,2020-10-15,Retail & Recreation,-21.0
+244,2020-10-16,Retail & Recreation,-16.0
+245,2020-10-17,Retail & Recreation,-19.0
+246,2020-10-18,Retail & Recreation,-25.0
+247,2020-10-19,Retail & Recreation,-21.0
+248,2020-10-20,Retail & Recreation,-20.0
+249,2020-10-21,Retail & Recreation,-19.0
+250,2020-10-22,Retail & Recreation,-20.0
+251,2020-10-23,Retail & Recreation,-22.0
+252,2020-10-24,Retail & Recreation,-28.0
+253,2020-10-25,Retail & Recreation,-42.0
+254,2020-10-26,Retail & Recreation,-28.0
+255,2020-10-27,Retail & Recreation,-23.0
+256,2020-10-28,Retail & Recreation,-24.0
+257,2020-10-29,Retail & Recreation,-26.0
+258,2020-10-30,Retail & Recreation,-28.0
+259,2020-10-31,Retail & Recreation,-34.0
+260,2020-11-01,Retail & Recreation,-48.0
+261,2020-11-02,Retail & Recreation,-25.0
+262,2020-11-03,Retail & Recreation,-27.0
+263,2020-11-04,Retail & Recreation,-19.0
+264,2020-11-05,Retail & Recreation,-19.0
+265,2020-11-06,Retail & Recreation,-62.0
+266,2020-11-07,Retail & Recreation,-67.0
+267,2020-11-08,Retail & Recreation,-79.0
+268,2020-11-09,Retail & Recreation,-54.0
+269,2020-11-10,Retail & Recreation,-53.0
+270,2020-11-11,Retail & Recreation,-53.0
+271,2020-11-12,Retail & Recreation,-54.0
+272,2020-11-13,Retail & Recreation,-54.0
+273,2020-11-14,Retail & Recreation,-60.0
+274,2020-11-15,Retail & Recreation,-77.0
+275,2020-11-16,Retail & Recreation,-50.0
+276,2020-11-17,Retail & Recreation,-50.0
+277,2020-11-18,Retail & Recreation,-50.0
+278,2020-11-19,Retail & Recreation,-50.0
+279,2020-11-20,Retail & Recreation,-51.0
+280,2020-11-21,Retail & Recreation,-58.0
+281,2020-11-22,Retail & Recreation,-72.0
+282,2020-11-23,Retail & Recreation,-47.0
+283,2020-11-24,Retail & Recreation,-47.0
+284,2020-11-25,Retail & Recreation,-48.0
+285,2020-11-26,Retail & Recreation,-47.0
+286,2020-11-27,Retail & Recreation,-47.0
+287,2020-11-28,Retail & Recreation,-56.0
+288,2020-11-29,Retail & Recreation,-60.0
+289,2020-11-30,Retail & Recreation,-38.0
+290,2020-12-01,Retail & Recreation,-38.0
+291,2020-12-02,Retail & Recreation,-43.0
+292,2020-12-03,Retail & Recreation,-38.0
+293,2020-12-04,Retail & Recreation,-46.0
+294,2020-12-05,Retail & Recreation,-49.0
+295,2020-12-06,Retail & Recreation,-58.0
+296,2020-12-07,Retail & Recreation,-29.0
+297,2020-12-08,Retail & Recreation,-57.0
+298,2020-12-09,Retail & Recreation,-33.0
+299,2020-12-10,Retail & Recreation,-34.0
+300,2020-12-11,Retail & Recreation,-38.0
+301,2020-12-12,Retail & Recreation,-42.0
+302,2020-12-13,Retail & Recreation,-32.0
+303,2020-12-14,Retail & Recreation,-20.0
+304,2020-12-15,Retail & Recreation,-19.0
+305,2020-12-16,Retail & Recreation,-20.0
+306,2020-12-17,Retail & Recreation,-18.0
+307,2020-12-18,Retail & Recreation,-20.0
+308,2020-12-19,Retail & Recreation,-28.0
+309,2020-12-20,Retail & Recreation,-38.0
+310,2020-12-21,Retail & Recreation,-8.0
+311,2020-12-22,Retail & Recreation,-7.0
+312,2020-12-23,Retail & Recreation,-1.0
+313,2020-12-24,Retail & Recreation,-46.0
+314,2020-12-25,Retail & Recreation,-89.0
+315,2020-12-26,Retail & Recreation,-85.0
+316,2020-12-27,Retail & Recreation,-71.0
+317,2020-12-28,Retail & Recreation,-27.0
+318,2020-12-29,Retail & Recreation,-27.0
+319,2020-12-30,Retail & Recreation,-21.0
+320,2020-12-31,Retail & Recreation,-48.0
+321,2020-02-15,Grocery & Pharmacy,-2.0
+322,2020-02-16,Grocery & Pharmacy,-6.0
+323,2020-02-17,Grocery & Pharmacy,0.0
+324,2020-02-18,Grocery & Pharmacy,-2.0
+325,2020-02-19,Grocery & Pharmacy,-2.0
+326,2020-02-20,Grocery & Pharmacy,-1.0
+327,2020-02-21,Grocery & Pharmacy,-1.0
+328,2020-02-22,Grocery & Pharmacy,0.0
+329,2020-02-23,Grocery & Pharmacy,6.0
+330,2020-02-24,Grocery & Pharmacy,20.0
+331,2020-02-25,Grocery & Pharmacy,-1.0
+332,2020-02-26,Grocery & Pharmacy,-9.0
+333,2020-02-27,Grocery & Pharmacy,-7.0
+334,2020-02-28,Grocery & Pharmacy,-5.0
+335,2020-02-29,Grocery & Pharmacy,-4.0
+336,2020-03-01,Grocery & Pharmacy,-10.0
+337,2020-03-02,Grocery & Pharmacy,-12.0
+338,2020-03-03,Grocery & Pharmacy,-2.0
+339,2020-03-04,Grocery & Pharmacy,-1.0
+340,2020-03-05,Grocery & Pharmacy,-5.0
+341,2020-03-06,Grocery & Pharmacy,-3.0
+342,2020-03-07,Grocery & Pharmacy,-3.0
+343,2020-03-08,Grocery & Pharmacy,-9.0
+344,2020-03-09,Grocery & Pharmacy,-4.0
+345,2020-03-10,Grocery & Pharmacy,-10.0
+346,2020-03-11,Grocery & Pharmacy,-17.0
+347,2020-03-12,Grocery & Pharmacy,-26.0
+348,2020-03-13,Grocery & Pharmacy,-29.0
+349,2020-03-14,Grocery & Pharmacy,-48.0
+350,2020-03-15,Grocery & Pharmacy,-66.0
+351,2020-03-16,Grocery & Pharmacy,-38.0
+352,2020-03-17,Grocery & Pharmacy,-41.0
+353,2020-03-18,Grocery & Pharmacy,-45.0
+354,2020-03-19,Grocery & Pharmacy,-44.0
+355,2020-03-20,Grocery & Pharmacy,-40.0
+356,2020-03-21,Grocery & Pharmacy,-54.0
+357,2020-03-22,Grocery & Pharmacy,-84.0
+358,2020-03-23,Grocery & Pharmacy,-48.0
+359,2020-03-24,Grocery & Pharmacy,-49.0
+360,2020-03-25,Grocery & Pharmacy,-51.0
+361,2020-03-26,Grocery & Pharmacy,-51.0
+362,2020-03-27,Grocery & Pharmacy,-48.0
+363,2020-03-28,Grocery & Pharmacy,-56.0
+364,2020-03-29,Grocery & Pharmacy,-84.0
+365,2020-03-30,Grocery & Pharmacy,-50.0
+366,2020-03-31,Grocery & Pharmacy,-47.0
+367,2020-04-01,Grocery & Pharmacy,-46.0
+368,2020-04-02,Grocery & Pharmacy,-44.0
+369,2020-04-03,Grocery & Pharmacy,-42.0
+370,2020-04-04,Grocery & Pharmacy,-54.0
+371,2020-04-05,Grocery & Pharmacy,-84.0
+372,2020-04-06,Grocery & Pharmacy,-44.0
+373,2020-04-07,Grocery & Pharmacy,-41.0
+374,2020-04-08,Grocery & Pharmacy,-41.0
+375,2020-04-09,Grocery & Pharmacy,-36.0
+376,2020-04-10,Grocery & Pharmacy,-32.0
+377,2020-04-11,Grocery & Pharmacy,-49.0
+378,2020-04-12,Grocery & Pharmacy,-92.0
+379,2020-04-13,Grocery & Pharmacy,-96.0
+380,2020-04-14,Grocery & Pharmacy,-42.0
+381,2020-04-15,Grocery & Pharmacy,-42.0
+382,2020-04-16,Grocery & Pharmacy,-40.0
+383,2020-04-17,Grocery & Pharmacy,-38.0
+384,2020-04-18,Grocery & Pharmacy,-50.0
+385,2020-04-19,Grocery & Pharmacy,-83.0
+386,2020-04-20,Grocery & Pharmacy,-54.0
+387,2020-04-21,Grocery & Pharmacy,-46.0
+388,2020-04-22,Grocery & Pharmacy,-40.0
+389,2020-04-23,Grocery & Pharmacy,-37.0
+390,2020-04-24,Grocery & Pharmacy,-26.0
+391,2020-04-25,Grocery & Pharmacy,-95.0
+392,2020-04-26,Grocery & Pharmacy,-69.0
+393,2020-04-27,Grocery & Pharmacy,-37.0
+394,2020-04-28,Grocery & Pharmacy,-44.0
+395,2020-04-29,Grocery & Pharmacy,-32.0
+396,2020-04-30,Grocery & Pharmacy,-24.0
+397,2020-05-01,Grocery & Pharmacy,-94.0
+398,2020-05-02,Grocery & Pharmacy,-40.0
+399,2020-05-03,Grocery & Pharmacy,-72.0
+400,2020-05-04,Grocery & Pharmacy,-26.0
+401,2020-05-05,Grocery & Pharmacy,-26.0
+402,2020-05-06,Grocery & Pharmacy,-27.0
+403,2020-05-07,Grocery & Pharmacy,-26.0
+404,2020-05-08,Grocery & Pharmacy,-25.0
+405,2020-05-09,Grocery & Pharmacy,-34.0
+406,2020-05-10,Grocery & Pharmacy,-59.0
+407,2020-05-11,Grocery & Pharmacy,-34.0
+408,2020-05-12,Grocery & Pharmacy,-27.0
+409,2020-05-13,Grocery & Pharmacy,-39.0
+410,2020-05-14,Grocery & Pharmacy,-24.0
+411,2020-05-15,Grocery & Pharmacy,-24.0
+412,2020-05-16,Grocery & Pharmacy,-33.0
+413,2020-05-17,Grocery & Pharmacy,-53.0
+414,2020-05-18,Grocery & Pharmacy,-20.0
+415,2020-05-19,Grocery & Pharmacy,-19.0
+416,2020-05-20,Grocery & Pharmacy,-17.0
+417,2020-05-21,Grocery & Pharmacy,-15.0
+418,2020-05-22,Grocery & Pharmacy,-13.0
+419,2020-05-23,Grocery & Pharmacy,-20.0
+420,2020-05-24,Grocery & Pharmacy,-36.0
+421,2020-05-25,Grocery & Pharmacy,-17.0
+422,2020-05-26,Grocery & Pharmacy,-14.0
+423,2020-05-27,Grocery & Pharmacy,-13.0
+424,2020-05-28,Grocery & Pharmacy,-13.0
+425,2020-05-29,Grocery & Pharmacy,-11.0
+426,2020-05-30,Grocery & Pharmacy,-15.0
+427,2020-05-31,Grocery & Pharmacy,-31.0
+428,2020-06-01,Grocery & Pharmacy,4.0
+429,2020-06-02,Grocery & Pharmacy,-44.0
+430,2020-06-03,Grocery & Pharmacy,-14.0
+431,2020-06-04,Grocery & Pharmacy,-12.0
+432,2020-06-05,Grocery & Pharmacy,-9.0
+433,2020-06-06,Grocery & Pharmacy,-15.0
+434,2020-06-07,Grocery & Pharmacy,-30.0
+435,2020-06-08,Grocery & Pharmacy,-22.0
+436,2020-06-09,Grocery & Pharmacy,-19.0
+437,2020-06-10,Grocery & Pharmacy,-11.0
+438,2020-06-11,Grocery & Pharmacy,-16.0
+439,2020-06-12,Grocery & Pharmacy,-13.0
+440,2020-06-13,Grocery & Pharmacy,-18.0
+441,2020-06-14,Grocery & Pharmacy,-26.0
+442,2020-06-15,Grocery & Pharmacy,-15.0
+443,2020-06-16,Grocery & Pharmacy,-14.0
+444,2020-06-17,Grocery & Pharmacy,-14.0
+445,2020-06-18,Grocery & Pharmacy,-11.0
+446,2020-06-19,Grocery & Pharmacy,-9.0
+447,2020-06-20,Grocery & Pharmacy,-15.0
+448,2020-06-21,Grocery & Pharmacy,-30.0
+449,2020-06-22,Grocery & Pharmacy,-14.0
+450,2020-06-23,Grocery & Pharmacy,-9.0
+451,2020-06-24,Grocery & Pharmacy,-17.0
+452,2020-06-25,Grocery & Pharmacy,-10.0
+453,2020-06-26,Grocery & Pharmacy,-10.0
+454,2020-06-27,Grocery & Pharmacy,-18.0
+455,2020-06-28,Grocery & Pharmacy,-26.0
+456,2020-06-29,Grocery & Pharmacy,-11.0
+457,2020-06-30,Grocery & Pharmacy,-9.0
+458,2020-07-01,Grocery & Pharmacy,-9.0
+459,2020-07-02,Grocery & Pharmacy,-10.0
+460,2020-07-03,Grocery & Pharmacy,-14.0
+461,2020-07-04,Grocery & Pharmacy,-14.0
+462,2020-07-05,Grocery & Pharmacy,-26.0
+463,2020-07-06,Grocery & Pharmacy,-12.0
+464,2020-07-07,Grocery & Pharmacy,-9.0
+465,2020-07-08,Grocery & Pharmacy,-10.0
+466,2020-07-09,Grocery & Pharmacy,-12.0
+467,2020-07-10,Grocery & Pharmacy,-13.0
+468,2020-07-11,Grocery & Pharmacy,-17.0
+469,2020-07-12,Grocery & Pharmacy,-24.0
+470,2020-07-13,Grocery & Pharmacy,-11.0
+471,2020-07-14,Grocery & Pharmacy,-12.0
+472,2020-07-15,Grocery & Pharmacy,-11.0
+473,2020-07-16,Grocery & Pharmacy,-12.0
+474,2020-07-17,Grocery & Pharmacy,-13.0
+475,2020-07-18,Grocery & Pharmacy,-17.0
+476,2020-07-19,Grocery & Pharmacy,-27.0
+477,2020-07-20,Grocery & Pharmacy,-14.0
+478,2020-07-21,Grocery & Pharmacy,-13.0
+479,2020-07-22,Grocery & Pharmacy,-15.0
+480,2020-07-23,Grocery & Pharmacy,-13.0
+481,2020-07-24,Grocery & Pharmacy,-13.0
+482,2020-07-25,Grocery & Pharmacy,-19.0
+483,2020-07-26,Grocery & Pharmacy,-26.0
+484,2020-07-27,Grocery & Pharmacy,-13.0
+485,2020-07-28,Grocery & Pharmacy,-13.0
+486,2020-07-29,Grocery & Pharmacy,-13.0
+487,2020-07-30,Grocery & Pharmacy,-16.0
+488,2020-07-31,Grocery & Pharmacy,-17.0
+489,2020-08-01,Grocery & Pharmacy,-25.0
+490,2020-08-02,Grocery & Pharmacy,-25.0
+491,2020-08-03,Grocery & Pharmacy,-16.0
+492,2020-08-04,Grocery & Pharmacy,-13.0
+493,2020-08-05,Grocery & Pharmacy,-16.0
+494,2020-08-06,Grocery & Pharmacy,-17.0
+495,2020-08-07,Grocery & Pharmacy,-20.0
+496,2020-08-08,Grocery & Pharmacy,-30.0
+497,2020-08-09,Grocery & Pharmacy,-35.0
+498,2020-08-10,Grocery & Pharmacy,-20.0
+499,2020-08-11,Grocery & Pharmacy,-21.0
+500,2020-08-12,Grocery & Pharmacy,-22.0
+501,2020-08-13,Grocery & Pharmacy,-19.0
+502,2020-08-14,Grocery & Pharmacy,-10.0
+503,2020-08-15,Grocery & Pharmacy,-71.0
+504,2020-08-16,Grocery & Pharmacy,-38.0
+505,2020-08-17,Grocery & Pharmacy,-19.0
+506,2020-08-18,Grocery & Pharmacy,-21.0
+507,2020-08-19,Grocery & Pharmacy,-23.0
+508,2020-08-20,Grocery & Pharmacy,-25.0
+509,2020-08-21,Grocery & Pharmacy,-27.0
+510,2020-08-22,Grocery & Pharmacy,-36.0
+511,2020-08-23,Grocery & Pharmacy,-33.0
+512,2020-08-24,Grocery & Pharmacy,-18.0
+513,2020-08-25,Grocery & Pharmacy,-18.0
+514,2020-08-26,Grocery & Pharmacy,-20.0
+515,2020-08-27,Grocery & Pharmacy,-20.0
+516,2020-08-28,Grocery & Pharmacy,-22.0
+517,2020-08-29,Grocery & Pharmacy,-24.0
+518,2020-08-30,Grocery & Pharmacy,-26.0
+519,2020-08-31,Grocery & Pharmacy,-10.0
+520,2020-09-01,Grocery & Pharmacy,-10.0
+521,2020-09-02,Grocery & Pharmacy,-13.0
+522,2020-09-03,Grocery & Pharmacy,-11.0
+523,2020-09-04,Grocery & Pharmacy,-14.0
+524,2020-09-05,Grocery & Pharmacy,-19.0
+525,2020-09-06,Grocery & Pharmacy,-22.0
+526,2020-09-07,Grocery & Pharmacy,-10.0
+527,2020-09-08,Grocery & Pharmacy,-10.0
+528,2020-09-09,Grocery & Pharmacy,-11.0
+529,2020-09-10,Grocery & Pharmacy,-11.0
+530,2020-09-11,Grocery & Pharmacy,-11.0
+531,2020-09-12,Grocery & Pharmacy,-13.0
+532,2020-09-13,Grocery & Pharmacy,-17.0
+533,2020-09-14,Grocery & Pharmacy,-6.0
+534,2020-09-15,Grocery & Pharmacy,-5.0
+535,2020-09-16,Grocery & Pharmacy,-7.0
+536,2020-09-17,Grocery & Pharmacy,-8.0
+537,2020-09-18,Grocery & Pharmacy,-9.0
+538,2020-09-19,Grocery & Pharmacy,-13.0
+539,2020-09-20,Grocery & Pharmacy,-16.0
+540,2020-09-21,Grocery & Pharmacy,-8.0
+541,2020-09-22,Grocery & Pharmacy,-11.0
+542,2020-09-23,Grocery & Pharmacy,-4.0
+543,2020-09-24,Grocery & Pharmacy,-6.0
+544,2020-09-25,Grocery & Pharmacy,-8.0
+545,2020-09-26,Grocery & Pharmacy,-10.0
+546,2020-09-27,Grocery & Pharmacy,-18.0
+547,2020-09-28,Grocery & Pharmacy,-4.0
+548,2020-09-29,Grocery & Pharmacy,-2.0
+549,2020-09-30,Grocery & Pharmacy,-2.0
+550,2020-10-01,Grocery & Pharmacy,-1.0
+551,2020-10-02,Grocery & Pharmacy,-12.0
+552,2020-10-03,Grocery & Pharmacy,-4.0
+553,2020-10-04,Grocery & Pharmacy,-17.0
+554,2020-10-05,Grocery & Pharmacy,-3.0
+555,2020-10-06,Grocery & Pharmacy,-2.0
+556,2020-10-07,Grocery & Pharmacy,-3.0
+557,2020-10-08,Grocery & Pharmacy,-3.0
+558,2020-10-09,Grocery & Pharmacy,-2.0
+559,2020-10-10,Grocery & Pharmacy,-8.0
+560,2020-10-11,Grocery & Pharmacy,-16.0
+561,2020-10-12,Grocery & Pharmacy,-3.0
+562,2020-10-13,Grocery & Pharmacy,-3.0
+563,2020-10-14,Grocery & Pharmacy,-3.0
+564,2020-10-15,Grocery & Pharmacy,-8.0
+565,2020-10-16,Grocery & Pharmacy,0.0
+566,2020-10-17,Grocery & Pharmacy,-5.0
+567,2020-10-18,Grocery & Pharmacy,-19.0
+568,2020-10-19,Grocery & Pharmacy,-6.0
+569,2020-10-20,Grocery & Pharmacy,-4.0
+570,2020-10-21,Grocery & Pharmacy,-4.0
+571,2020-10-22,Grocery & Pharmacy,-3.0
+572,2020-10-23,Grocery & Pharmacy,-2.0
+573,2020-10-24,Grocery & Pharmacy,-9.0
+574,2020-10-25,Grocery & Pharmacy,-29.0
+575,2020-10-26,Grocery & Pharmacy,-11.0
+576,2020-10-27,Grocery & Pharmacy,-1.0
+577,2020-10-28,Grocery & Pharmacy,-4.0
+578,2020-10-29,Grocery & Pharmacy,-4.0
+579,2020-10-30,Grocery & Pharmacy,0.0
+580,2020-10-31,Grocery & Pharmacy,-5.0
+581,2020-11-01,Grocery & Pharmacy,-31.0
+582,2020-11-02,Grocery & Pharmacy,-5.0
+583,2020-11-03,Grocery & Pharmacy,-6.0
+584,2020-11-04,Grocery & Pharmacy,4.0
+585,2020-11-05,Grocery & Pharmacy,8.0
+586,2020-11-06,Grocery & Pharmacy,-22.0
+587,2020-11-07,Grocery & Pharmacy,-27.0
+588,2020-11-08,Grocery & Pharmacy,-53.0
+589,2020-11-09,Grocery & Pharmacy,-19.0
+590,2020-11-10,Grocery & Pharmacy,-16.0
+591,2020-11-11,Grocery & Pharmacy,-17.0
+592,2020-11-12,Grocery & Pharmacy,-17.0
+593,2020-11-13,Grocery & Pharmacy,-13.0
+594,2020-11-14,Grocery & Pharmacy,-21.0
+595,2020-11-15,Grocery & Pharmacy,-50.0
+596,2020-11-16,Grocery & Pharmacy,-17.0
+597,2020-11-17,Grocery & Pharmacy,-15.0
+598,2020-11-18,Grocery & Pharmacy,-16.0
+599,2020-11-19,Grocery & Pharmacy,-15.0
+600,2020-11-20,Grocery & Pharmacy,-11.0
+601,2020-11-21,Grocery & Pharmacy,-19.0
+602,2020-11-22,Grocery & Pharmacy,-44.0
+603,2020-11-23,Grocery & Pharmacy,-18.0
+604,2020-11-24,Grocery & Pharmacy,-15.0
+605,2020-11-25,Grocery & Pharmacy,-15.0
+606,2020-11-26,Grocery & Pharmacy,-14.0
+607,2020-11-27,Grocery & Pharmacy,-10.0
+608,2020-11-28,Grocery & Pharmacy,-18.0
+609,2020-11-29,Grocery & Pharmacy,-34.0
+610,2020-11-30,Grocery & Pharmacy,-12.0
+611,2020-12-01,Grocery & Pharmacy,-8.0
+612,2020-12-02,Grocery & Pharmacy,-15.0
+613,2020-12-03,Grocery & Pharmacy,-5.0
+614,2020-12-04,Grocery & Pharmacy,-15.0
+615,2020-12-05,Grocery & Pharmacy,-11.0
+616,2020-12-06,Grocery & Pharmacy,-26.0
+617,2020-12-07,Grocery & Pharmacy,7.0
+618,2020-12-08,Grocery & Pharmacy,-39.0
+619,2020-12-09,Grocery & Pharmacy,-3.0
+620,2020-12-10,Grocery & Pharmacy,-2.0
+621,2020-12-11,Grocery & Pharmacy,-2.0
+622,2020-12-12,Grocery & Pharmacy,-5.0
+623,2020-12-13,Grocery & Pharmacy,-13.0
+624,2020-12-14,Grocery & Pharmacy,-3.0
+625,2020-12-15,Grocery & Pharmacy,1.0
+626,2020-12-16,Grocery & Pharmacy,1.0
+627,2020-12-17,Grocery & Pharmacy,4.0
+628,2020-12-18,Grocery & Pharmacy,6.0
+629,2020-12-19,Grocery & Pharmacy,0.0
+630,2020-12-20,Grocery & Pharmacy,-11.0
+631,2020-12-21,Grocery & Pharmacy,12.0
+632,2020-12-22,Grocery & Pharmacy,20.0
+633,2020-12-23,Grocery & Pharmacy,40.0
+634,2020-12-24,Grocery & Pharmacy,15.0
+635,2020-12-25,Grocery & Pharmacy,-90.0
+636,2020-12-26,Grocery & Pharmacy,-77.0
+637,2020-12-27,Grocery & Pharmacy,-34.0
+638,2020-12-28,Grocery & Pharmacy,4.0
+639,2020-12-29,Grocery & Pharmacy,12.0
+640,2020-12-30,Grocery & Pharmacy,34.0
+641,2020-12-31,Grocery & Pharmacy,11.0
+642,2020-02-15,Parks,19.0
+643,2020-02-16,Parks,0.0
+644,2020-02-17,Parks,4.0
+645,2020-02-18,Parks,23.0
+646,2020-02-19,Parks,17.0
+647,2020-02-20,Parks,25.0
+648,2020-02-21,Parks,25.0
+649,2020-02-22,Parks,25.0
+650,2020-02-23,Parks,6.0
+651,2020-02-24,Parks,28.0
+652,2020-02-25,Parks,2.0
+653,2020-02-26,Parks,-15.0
+654,2020-02-27,Parks,-9.0
+655,2020-02-28,Parks,21.0
+656,2020-02-29,Parks,-10.0
+657,2020-03-01,Parks,0.0
+658,2020-03-02,Parks,-41.0
+659,2020-03-03,Parks,20.0
+660,2020-03-04,Parks,27.0
+661,2020-03-05,Parks,-23.0
+662,2020-03-06,Parks,0.0
+663,2020-03-07,Parks,19.0
+664,2020-03-08,Parks,-2.0
+665,2020-03-09,Parks,-17.0
+666,2020-03-10,Parks,-19.0
+667,2020-03-11,Parks,-15.0
+668,2020-03-12,Parks,-58.0
+669,2020-03-13,Parks,-50.0
+670,2020-03-14,Parks,-77.0
+671,2020-03-15,Parks,-78.0
+672,2020-03-16,Parks,-61.0
+673,2020-03-17,Parks,-55.0
+674,2020-03-18,Parks,-62.0
+675,2020-03-19,Parks,-67.0
+676,2020-03-20,Parks,-71.0
+677,2020-03-21,Parks,-83.0
+678,2020-03-22,Parks,-92.0
+679,2020-03-23,Parks,-81.0
+680,2020-03-24,Parks,-78.0
+681,2020-03-25,Parks,-81.0
+682,2020-03-26,Parks,-82.0
+683,2020-03-27,Parks,-81.0
+684,2020-03-28,Parks,-83.0
+685,2020-03-29,Parks,-90.0
+686,2020-03-30,Parks,-80.0
+687,2020-03-31,Parks,-77.0
+688,2020-04-01,Parks,-76.0
+689,2020-04-02,Parks,-75.0
+690,2020-04-03,Parks,-75.0
+691,2020-04-04,Parks,-83.0
+692,2020-04-05,Parks,-89.0
+693,2020-04-06,Parks,-76.0
+694,2020-04-07,Parks,-73.0
+695,2020-04-08,Parks,-75.0
+696,2020-04-09,Parks,-74.0
+697,2020-04-10,Parks,-73.0
+698,2020-04-11,Parks,-81.0
+699,2020-04-12,Parks,-90.0
+700,2020-04-13,Parks,-85.0
+701,2020-04-14,Parks,-73.0
+702,2020-04-15,Parks,-75.0
+703,2020-04-16,Parks,-74.0
+704,2020-04-17,Parks,-72.0
+705,2020-04-18,Parks,-81.0
+706,2020-04-19,Parks,-90.0
+707,2020-04-20,Parks,-84.0
+708,2020-04-21,Parks,-79.0
+709,2020-04-22,Parks,-71.0
+710,2020-04-23,Parks,-71.0
+711,2020-04-24,Parks,-65.0
+712,2020-04-25,Parks,-85.0
+713,2020-04-26,Parks,-88.0
+714,2020-04-27,Parks,-76.0
+715,2020-04-28,Parks,-78.0
+716,2020-04-29,Parks,-65.0
+717,2020-04-30,Parks,-70.0
+718,2020-05-01,Parks,-80.0
+719,2020-05-02,Parks,-73.0
+720,2020-05-03,Parks,-78.0
+721,2020-05-04,Parks,-11.0
+722,2020-05-05,Parks,-8.0
+723,2020-05-06,Parks,-13.0
+724,2020-05-07,Parks,-11.0
+725,2020-05-08,Parks,-14.0
+726,2020-05-09,Parks,-21.0
+727,2020-05-10,Parks,-51.0
+728,2020-05-11,Parks,-46.0
+729,2020-05-12,Parks,-12.0
+730,2020-05-13,Parks,-63.0
+731,2020-05-14,Parks,-12.0
+732,2020-05-15,Parks,-20.0
+733,2020-05-16,Parks,-55.0
+734,2020-05-17,Parks,-17.0
+735,2020-05-18,Parks,19.0
+736,2020-05-19,Parks,9.0
+737,2020-05-20,Parks,37.0
+738,2020-05-21,Parks,21.0
+739,2020-05-22,Parks,26.0
+740,2020-05-23,Parks,-5.0
+741,2020-05-24,Parks,26.0
+742,2020-05-25,Parks,29.0
+743,2020-05-26,Parks,32.0
+744,2020-05-27,Parks,32.0
+745,2020-05-28,Parks,26.0
+746,2020-05-29,Parks,17.0
+747,2020-05-30,Parks,17.0
+748,2020-05-31,Parks,11.0
+749,2020-06-01,Parks,59.0
+750,2020-06-02,Parks,110.0
+751,2020-06-03,Parks,-11.0
+752,2020-06-04,Parks,-37.0
+753,2020-06-05,Parks,42.0
+754,2020-06-06,Parks,18.0
+755,2020-06-07,Parks,-31.0
+756,2020-06-08,Parks,-31.0
+757,2020-06-09,Parks,-27.0
+758,2020-06-10,Parks,13.0
+759,2020-06-11,Parks,-32.0
+760,2020-06-12,Parks,-16.0
+761,2020-06-13,Parks,-28.0
+762,2020-06-14,Parks,40.0
+763,2020-06-15,Parks,27.0
+764,2020-06-16,Parks,2.0
+765,2020-06-17,Parks,-5.0
+766,2020-06-18,Parks,7.0
+767,2020-06-19,Parks,52.0
+768,2020-06-20,Parks,32.0
+769,2020-06-21,Parks,27.0
+770,2020-06-22,Parks,38.0
+771,2020-06-23,Parks,52.0
+772,2020-06-24,Parks,61.0
+773,2020-06-25,Parks,28.0
+774,2020-06-26,Parks,36.0
+775,2020-06-27,Parks,-2.0
+776,2020-06-28,Parks,18.0
+777,2020-06-29,Parks,35.0
+778,2020-06-30,Parks,43.0
+779,2020-07-01,Parks,12.0
+780,2020-07-02,Parks,26.0
+781,2020-07-03,Parks,-2.0
+782,2020-07-04,Parks,25.0
+783,2020-07-05,Parks,16.0
+784,2020-07-06,Parks,33.0
+785,2020-07-07,Parks,41.0
+786,2020-07-08,Parks,45.0
+787,2020-07-09,Parks,38.0
+788,2020-07-10,Parks,22.0
+789,2020-07-11,Parks,14.0
+790,2020-07-12,Parks,9.0
+791,2020-07-13,Parks,30.0
+792,2020-07-14,Parks,39.0
+793,2020-07-15,Parks,23.0
+794,2020-07-16,Parks,37.0
+795,2020-07-17,Parks,33.0
+796,2020-07-18,Parks,17.0
+797,2020-07-19,Parks,14.0
+798,2020-07-20,Parks,28.0
+799,2020-07-21,Parks,35.0
+800,2020-07-22,Parks,17.0
+801,2020-07-23,Parks,36.0
+802,2020-07-24,Parks,31.0
+803,2020-07-25,Parks,23.0
+804,2020-07-26,Parks,10.0
+805,2020-07-27,Parks,31.0
+806,2020-07-28,Parks,29.0
+807,2020-07-29,Parks,33.0
+808,2020-07-30,Parks,21.0
+809,2020-07-31,Parks,30.0
+810,2020-08-01,Parks,-7.0
+811,2020-08-02,Parks,-15.0
+812,2020-08-03,Parks,-12.0
+813,2020-08-04,Parks,41.0
+814,2020-08-05,Parks,39.0
+815,2020-08-06,Parks,31.0
+816,2020-08-07,Parks,25.0
+817,2020-08-08,Parks,-1.0
+818,2020-08-09,Parks,-10.0
+819,2020-08-10,Parks,24.0
+820,2020-08-11,Parks,35.0
+821,2020-08-12,Parks,13.0
+822,2020-08-13,Parks,12.0
+823,2020-08-14,Parks,29.0
+824,2020-08-15,Parks,-10.0
+825,2020-08-16,Parks,-35.0
+826,2020-08-17,Parks,-6.0
+827,2020-08-18,Parks,34.0
+828,2020-08-19,Parks,29.0
+829,2020-08-20,Parks,18.0
+830,2020-08-21,Parks,15.0
+831,2020-08-22,Parks,-10.0
+832,2020-08-23,Parks,-17.0
+833,2020-08-24,Parks,3.0
+834,2020-08-25,Parks,24.0
+835,2020-08-26,Parks,22.0
+836,2020-08-27,Parks,18.0
+837,2020-08-28,Parks,-16.0
+838,2020-08-29,Parks,-34.0
+839,2020-08-30,Parks,-11.0
+840,2020-08-31,Parks,18.0
+841,2020-09-01,Parks,35.0
+842,2020-09-02,Parks,7.0
+843,2020-09-03,Parks,26.0
+844,2020-09-04,Parks,31.0
+845,2020-09-05,Parks,13.0
+846,2020-09-06,Parks,-2.0
+847,2020-09-07,Parks,9.0
+848,2020-09-08,Parks,38.0
+849,2020-09-09,Parks,37.0
+850,2020-09-10,Parks,29.0
+851,2020-09-11,Parks,14.0
+852,2020-09-12,Parks,20.0
+853,2020-09-13,Parks,12.0
+854,2020-09-14,Parks,32.0
+855,2020-09-15,Parks,40.0
+856,2020-09-16,Parks,37.0
+857,2020-09-17,Parks,33.0
+858,2020-09-18,Parks,42.0
+859,2020-09-19,Parks,5.0
+860,2020-09-20,Parks,-7.0
+861,2020-09-21,Parks,18.0
+862,2020-09-22,Parks,-10.0
+863,2020-09-23,Parks,24.0
+864,2020-09-24,Parks,1.0
+865,2020-09-25,Parks,-1.0
+866,2020-09-26,Parks,-5.0
+867,2020-09-27,Parks,-2.0
+868,2020-09-28,Parks,14.0
+869,2020-09-29,Parks,23.0
+870,2020-09-30,Parks,24.0
+871,2020-10-01,Parks,6.0
+872,2020-10-02,Parks,-36.0
+873,2020-10-03,Parks,0.0
+874,2020-10-04,Parks,-20.0
+875,2020-10-05,Parks,-6.0
+876,2020-10-06,Parks,8.0
+877,2020-10-07,Parks,16.0
+878,2020-10-08,Parks,16.0
+879,2020-10-09,Parks,14.0
+880,2020-10-10,Parks,1.0
+881,2020-10-11,Parks,-3.0
+882,2020-10-12,Parks,7.0
+883,2020-10-13,Parks,13.0
+884,2020-10-14,Parks,0.0
+885,2020-10-15,Parks,-34.0
+886,2020-10-16,Parks,7.0
+887,2020-10-17,Parks,-1.0
+888,2020-10-18,Parks,-14.0
+889,2020-10-19,Parks,-14.0
+890,2020-10-20,Parks,-9.0
+891,2020-10-21,Parks,-9.0
+892,2020-10-22,Parks,-13.0
+893,2020-10-23,Parks,-17.0
+894,2020-10-24,Parks,4.0
+895,2020-10-25,Parks,-26.0
+896,2020-10-26,Parks,-35.0
+897,2020-10-27,Parks,11.0
+898,2020-10-28,Parks,5.0
+899,2020-10-29,Parks,-3.0
+900,2020-10-30,Parks,7.0
+901,2020-10-31,Parks,-1.0
+902,2020-11-01,Parks,-20.0
+903,2020-11-02,Parks,-10.0
+904,2020-11-03,Parks,-12.0
+905,2020-11-04,Parks,-15.0
+906,2020-11-05,Parks,-2.0
+907,2020-11-06,Parks,-43.0
+908,2020-11-07,Parks,-50.0
+909,2020-11-08,Parks,-49.0
+910,2020-11-09,Parks,-28.0
+911,2020-11-10,Parks,-24.0
+912,2020-11-11,Parks,-27.0
+913,2020-11-12,Parks,-41.0
+914,2020-11-13,Parks,-35.0
+915,2020-11-14,Parks,-41.0
+916,2020-11-15,Parks,-58.0
+917,2020-11-16,Parks,-28.0
+918,2020-11-17,Parks,-22.0
+919,2020-11-18,Parks,-23.0
+920,2020-11-19,Parks,-25.0
+921,2020-11-20,Parks,-20.0
+922,2020-11-21,Parks,-45.0
+923,2020-11-22,Parks,-41.0
+924,2020-11-23,Parks,-30.0
+925,2020-11-24,Parks,-21.0
+926,2020-11-25,Parks,-26.0
+927,2020-11-26,Parks,-29.0
+928,2020-11-27,Parks,-28.0
+929,2020-11-28,Parks,-56.0
+930,2020-11-29,Parks,-34.0
+931,2020-11-30,Parks,-35.0
+932,2020-12-01,Parks,-34.0
+933,2020-12-02,Parks,-50.0
+934,2020-12-03,Parks,-37.0
+935,2020-12-04,Parks,-49.0
+936,2020-12-05,Parks,-55.0
+937,2020-12-06,Parks,-44.0
+938,2020-12-07,Parks,-32.0
+939,2020-12-08,Parks,-31.0
+940,2020-12-09,Parks,-32.0
+941,2020-12-10,Parks,-29.0
+942,2020-12-11,Parks,-34.0
+943,2020-12-12,Parks,-28.0
+944,2020-12-13,Parks,-10.0
+945,2020-12-14,Parks,-23.0
+946,2020-12-15,Parks,-18.0
+947,2020-12-16,Parks,-19.0
+948,2020-12-17,Parks,-15.0
+949,2020-12-18,Parks,-12.0
+950,2020-12-19,Parks,-20.0
+951,2020-12-20,Parks,-44.0
+952,2020-12-21,Parks,-24.0
+953,2020-12-22,Parks,-7.0
+954,2020-12-23,Parks,-5.0
+955,2020-12-24,Parks,-41.0
+956,2020-12-25,Parks,-62.0
+957,2020-12-26,Parks,-45.0
+958,2020-12-27,Parks,-62.0
+959,2020-12-28,Parks,-24.0
+960,2020-12-29,Parks,-14.0
+961,2020-12-30,Parks,-9.0
+962,2020-12-31,Parks,-35.0
+963,2020-02-15,Transit stations,2.0
+964,2020-02-16,Transit stations,4.0
+965,2020-02-17,Transit stations,1.0
+966,2020-02-18,Transit stations,3.0
+967,2020-02-19,Transit stations,0.0
+968,2020-02-20,Transit stations,4.0
+969,2020-02-21,Transit stations,4.0
+970,2020-02-22,Transit stations,1.0
+971,2020-02-23,Transit stations,-1.0
+972,2020-02-24,Transit stations,-22.0
+973,2020-02-25,Transit stations,-26.0
+974,2020-02-26,Transit stations,-31.0
+975,2020-02-27,Transit stations,-27.0
+976,2020-02-28,Transit stations,-23.0
+977,2020-02-29,Transit stations,-19.0
+978,2020-03-01,Transit stations,-16.0
+979,2020-03-02,Transit stations,-29.0
+980,2020-03-03,Transit stations,-19.0
+981,2020-03-04,Transit stations,-20.0
+982,2020-03-05,Transit stations,-26.0
+983,2020-03-06,Transit stations,-26.0
+984,2020-03-07,Transit stations,-20.0
+985,2020-03-08,Transit stations,-25.0
+986,2020-03-09,Transit stations,-41.0
+987,2020-03-10,Transit stations,-52.0
+988,2020-03-11,Transit stations,-58.0
+989,2020-03-12,Transit stations,-68.0
+990,2020-03-13,Transit stations,-70.0
+991,2020-03-14,Transit stations,-76.0
+992,2020-03-15,Transit stations,-81.0
+993,2020-03-16,Transit stations,-75.0
+994,2020-03-17,Transit stations,-75.0
+995,2020-03-18,Transit stations,-77.0
+996,2020-03-19,Transit stations,-77.0
+997,2020-03-20,Transit stations,-78.0
+998,2020-03-21,Transit stations,-79.0
+999,2020-03-22,Transit stations,-87.0
+1000,2020-03-23,Transit stations,-82.0
+1001,2020-03-24,Transit stations,-82.0
+1002,2020-03-25,Transit stations,-83.0
+1003,2020-03-26,Transit stations,-83.0
+1004,2020-03-27,Transit stations,-83.0
+1005,2020-03-28,Transit stations,-80.0
+1006,2020-03-29,Transit stations,-86.0
+1007,2020-03-30,Transit stations,-81.0
+1008,2020-03-31,Transit stations,-81.0
+1009,2020-04-01,Transit stations,-80.0
+1010,2020-04-02,Transit stations,-79.0
+1011,2020-04-03,Transit stations,-80.0
+1012,2020-04-04,Transit stations,-79.0
+1013,2020-04-05,Transit stations,-86.0
+1014,2020-04-06,Transit stations,-79.0
+1015,2020-04-07,Transit stations,-79.0
+1016,2020-04-08,Transit stations,-79.0
+1017,2020-04-09,Transit stations,-78.0
+1018,2020-04-10,Transit stations,-77.0
+1019,2020-04-11,Transit stations,-77.0
+1020,2020-04-12,Transit stations,-87.0
+1021,2020-04-13,Transit stations,-91.0
+1022,2020-04-14,Transit stations,-77.0
+1023,2020-04-15,Transit stations,-78.0
+1024,2020-04-16,Transit stations,-77.0
+1025,2020-04-17,Transit stations,-77.0
+1026,2020-04-18,Transit stations,-76.0
+1027,2020-04-19,Transit stations,-85.0
+1028,2020-04-20,Transit stations,-82.0
+1029,2020-04-21,Transit stations,-79.0
+1030,2020-04-22,Transit stations,-76.0
+1031,2020-04-23,Transit stations,-76.0
+1032,2020-04-24,Transit stations,-73.0
+1033,2020-04-25,Transit stations,-86.0
+1034,2020-04-26,Transit stations,-82.0
+1035,2020-04-27,Transit stations,-76.0
+1036,2020-04-28,Transit stations,-78.0
+1037,2020-04-29,Transit stations,-73.0
+1038,2020-04-30,Transit stations,-73.0
+1039,2020-05-01,Transit stations,-89.0
+1040,2020-05-02,Transit stations,-72.0
+1041,2020-05-03,Transit stations,-77.0
+1042,2020-05-04,Transit stations,-60.0
+1043,2020-05-05,Transit stations,-60.0
+1044,2020-05-06,Transit stations,-61.0
+1045,2020-05-07,Transit stations,-60.0
+1046,2020-05-08,Transit stations,-60.0
+1047,2020-05-09,Transit stations,-54.0
+1048,2020-05-10,Transit stations,-64.0
+1049,2020-05-11,Transit stations,-63.0
+1050,2020-05-12,Transit stations,-58.0
+1051,2020-05-13,Transit stations,-68.0
+1052,2020-05-14,Transit stations,-58.0
+1053,2020-05-15,Transit stations,-59.0
+1054,2020-05-16,Transit stations,-59.0
+1055,2020-05-17,Transit stations,-54.0
+1056,2020-05-18,Transit stations,-49.0
+1057,2020-05-19,Transit stations,-50.0
+1058,2020-05-20,Transit stations,-49.0
+1059,2020-05-21,Transit stations,-48.0
+1060,2020-05-22,Transit stations,-48.0
+1061,2020-05-23,Transit stations,-40.0
+1062,2020-05-24,Transit stations,-35.0
+1063,2020-05-25,Transit stations,-47.0
+1064,2020-05-26,Transit stations,-46.0
+1065,2020-05-27,Transit stations,-46.0
+1066,2020-05-28,Transit stations,-45.0
+1067,2020-05-29,Transit stations,-45.0
+1068,2020-05-30,Transit stations,-32.0
+1069,2020-05-31,Transit stations,-35.0
+1070,2020-06-01,Transit stations,-40.0
+1071,2020-06-02,Transit stations,-54.0
+1072,2020-06-03,Transit stations,-44.0
+1073,2020-06-04,Transit stations,-47.0
+1074,2020-06-05,Transit stations,-38.0
+1075,2020-06-06,Transit stations,-29.0
+1076,2020-06-07,Transit stations,-42.0
+1077,2020-06-08,Transit stations,-48.0
+1078,2020-06-09,Transit stations,-47.0
+1079,2020-06-10,Transit stations,-41.0
+1080,2020-06-11,Transit stations,-46.0
+1081,2020-06-12,Transit stations,-44.0
+1082,2020-06-13,Transit stations,-39.0
+1083,2020-06-14,Transit stations,-23.0
+1084,2020-06-15,Transit stations,-38.0
+1085,2020-06-16,Transit stations,-40.0
+1086,2020-06-17,Transit stations,-41.0
+1087,2020-06-18,Transit stations,-38.0
+1088,2020-06-19,Transit stations,-33.0
+1089,2020-06-20,Transit stations,-25.0
+1090,2020-06-21,Transit stations,-24.0
+1091,2020-06-22,Transit stations,-36.0
+1092,2020-06-23,Transit stations,-33.0
+1093,2020-06-24,Transit stations,-43.0
+1094,2020-06-25,Transit stations,-34.0
+1095,2020-06-26,Transit stations,-33.0
+1096,2020-06-27,Transit stations,-31.0
+1097,2020-06-28,Transit stations,-23.0
+1098,2020-06-29,Transit stations,-34.0
+1099,2020-06-30,Transit stations,-33.0
+1100,2020-07-01,Transit stations,-36.0
+1101,2020-07-02,Transit stations,-32.0
+1102,2020-07-03,Transit stations,-37.0
+1103,2020-07-04,Transit stations,-24.0
+1104,2020-07-05,Transit stations,-24.0
+1105,2020-07-06,Transit stations,-34.0
+1106,2020-07-07,Transit stations,-32.0
+1107,2020-07-08,Transit stations,-34.0
+1108,2020-07-09,Transit stations,-32.0
+1109,2020-07-10,Transit stations,-34.0
+1110,2020-07-11,Transit stations,-27.0
+1111,2020-07-12,Transit stations,-25.0
+1112,2020-07-13,Transit stations,-35.0
+1113,2020-07-14,Transit stations,-33.0
+1114,2020-07-15,Transit stations,-35.0
+1115,2020-07-16,Transit stations,-32.0
+1116,2020-07-17,Transit stations,-33.0
+1117,2020-07-18,Transit stations,-27.0
+1118,2020-07-19,Transit stations,-23.0
+1119,2020-07-20,Transit stations,-35.0
+1120,2020-07-21,Transit stations,-35.0
+1121,2020-07-22,Transit stations,-37.0
+1122,2020-07-23,Transit stations,-32.0
+1123,2020-07-24,Transit stations,-33.0
+1124,2020-07-25,Transit stations,-26.0
+1125,2020-07-26,Transit stations,-24.0
+1126,2020-07-27,Transit stations,-34.0
+1127,2020-07-28,Transit stations,-34.0
+1128,2020-07-29,Transit stations,-36.0
+1129,2020-07-30,Transit stations,-35.0
+1130,2020-07-31,Transit stations,-35.0
+1131,2020-08-01,Transit stations,-33.0
+1132,2020-08-02,Transit stations,-32.0
+1133,2020-08-03,Transit stations,-40.0
+1134,2020-08-04,Transit stations,-35.0
+1135,2020-08-05,Transit stations,-38.0
+1136,2020-08-06,Transit stations,-38.0
+1137,2020-08-07,Transit stations,-41.0
+1138,2020-08-08,Transit stations,-35.0
+1139,2020-08-09,Transit stations,-34.0
+1140,2020-08-10,Transit stations,-46.0
+1141,2020-08-11,Transit stations,-47.0
+1142,2020-08-12,Transit stations,-51.0
+1143,2020-08-13,Transit stations,-49.0
+1144,2020-08-14,Transit stations,-49.0
+1145,2020-08-15,Transit stations,-53.0
+1146,2020-08-16,Transit stations,-43.0
+1147,2020-08-17,Transit stations,-51.0
+1148,2020-08-18,Transit stations,-50.0
+1149,2020-08-19,Transit stations,-52.0
+1150,2020-08-20,Transit stations,-50.0
+1151,2020-08-21,Transit stations,-51.0
+1152,2020-08-22,Transit stations,-43.0
+1153,2020-08-23,Transit stations,-36.0
+1154,2020-08-24,Transit stations,-46.0
+1155,2020-08-25,Transit stations,-44.0
+1156,2020-08-26,Transit stations,-45.0
+1157,2020-08-27,Transit stations,-42.0
+1158,2020-08-28,Transit stations,-45.0
+1159,2020-08-29,Transit stations,-41.0
+1160,2020-08-30,Transit stations,-31.0
+1161,2020-08-31,Transit stations,-36.0
+1162,2020-09-01,Transit stations,-33.0
+1163,2020-09-02,Transit stations,-37.0
+1164,2020-09-03,Transit stations,-31.0
+1165,2020-09-04,Transit stations,-32.0
+1166,2020-09-05,Transit stations,-26.0
+1167,2020-09-06,Transit stations,-25.0
+1168,2020-09-07,Transit stations,-32.0
+1169,2020-09-08,Transit stations,-28.0
+1170,2020-09-09,Transit stations,-31.0
+1171,2020-09-10,Transit stations,-27.0
+1172,2020-09-11,Transit stations,-30.0
+1173,2020-09-12,Transit stations,-20.0
+1174,2020-09-13,Transit stations,-18.0
+1175,2020-09-14,Transit stations,-26.0
+1176,2020-09-15,Transit stations,-23.0
+1177,2020-09-16,Transit stations,-23.0
+1178,2020-09-17,Transit stations,-21.0
+1179,2020-09-18,Transit stations,-21.0
+1180,2020-09-19,Transit stations,-18.0
+1181,2020-09-20,Transit stations,-14.0
+1182,2020-09-21,Transit stations,-22.0
+1183,2020-09-22,Transit stations,-26.0
+1184,2020-09-23,Transit stations,-23.0
+1185,2020-09-24,Transit stations,-22.0
+1186,2020-09-25,Transit stations,-22.0
+1187,2020-09-26,Transit stations,-18.0
+1188,2020-09-27,Transit stations,-12.0
+1189,2020-09-28,Transit stations,-21.0
+1190,2020-09-29,Transit stations,-20.0
+1191,2020-09-30,Transit stations,-22.0
+1192,2020-10-01,Transit stations,-19.0
+1193,2020-10-02,Transit stations,-26.0
+1194,2020-10-03,Transit stations,-12.0
+1195,2020-10-04,Transit stations,-16.0
+1196,2020-10-05,Transit stations,-20.0
+1197,2020-10-06,Transit stations,-18.0
+1198,2020-10-07,Transit stations,-21.0
+1199,2020-10-08,Transit stations,-20.0
+1200,2020-10-09,Transit stations,-19.0
+1201,2020-10-10,Transit stations,-16.0
+1202,2020-10-11,Transit stations,-15.0
+1203,2020-10-12,Transit stations,-22.0
+1204,2020-10-13,Transit stations,-21.0
+1205,2020-10-14,Transit stations,-25.0
+1206,2020-10-15,Transit stations,-28.0
+1207,2020-10-16,Transit stations,-22.0
+1208,2020-10-17,Transit stations,-20.0
+1209,2020-10-18,Transit stations,-26.0
+1210,2020-10-19,Transit stations,-27.0
+1211,2020-10-20,Transit stations,-27.0
+1212,2020-10-21,Transit stations,-29.0
+1213,2020-10-22,Transit stations,-27.0
+1214,2020-10-23,Transit stations,-32.0
+1215,2020-10-24,Transit stations,-25.0
+1216,2020-10-25,Transit stations,-34.0
+1217,2020-10-26,Transit stations,-37.0
+1218,2020-10-27,Transit stations,-32.0
+1219,2020-10-28,Transit stations,-36.0
+1220,2020-10-29,Transit stations,-36.0
+1221,2020-10-30,Transit stations,-34.0
+1222,2020-10-31,Transit stations,-32.0
+1223,2020-11-01,Transit stations,-39.0
+1224,2020-11-02,Transit stations,-40.0
+1225,2020-11-03,Transit stations,-40.0
+1226,2020-11-04,Transit stations,-39.0
+1227,2020-11-05,Transit stations,-37.0
+1228,2020-11-06,Transit stations,-58.0
+1229,2020-11-07,Transit stations,-63.0
+1230,2020-11-08,Transit stations,-67.0
+1231,2020-11-09,Transit stations,-55.0
+1232,2020-11-10,Transit stations,-55.0
+1233,2020-11-11,Transit stations,-56.0
+1234,2020-11-12,Transit stations,-56.0
+1235,2020-11-13,Transit stations,-56.0
+1236,2020-11-14,Transit stations,-59.0
+1237,2020-11-15,Transit stations,-66.0
+1238,2020-11-16,Transit stations,-55.0
+1239,2020-11-17,Transit stations,-53.0
+1240,2020-11-18,Transit stations,-55.0
+1241,2020-11-19,Transit stations,-53.0
+1242,2020-11-20,Transit stations,-54.0
+1243,2020-11-21,Transit stations,-58.0
+1244,2020-11-22,Transit stations,-62.0
+1245,2020-11-23,Transit stations,-53.0
+1246,2020-11-24,Transit stations,-52.0
+1247,2020-11-25,Transit stations,-54.0
+1248,2020-11-26,Transit stations,-52.0
+1249,2020-11-27,Transit stations,-52.0
+1250,2020-11-28,Transit stations,-57.0
+1251,2020-11-29,Transit stations,-50.0
+1252,2020-11-30,Transit stations,-48.0
+1253,2020-12-01,Transit stations,-47.0
+1254,2020-12-02,Transit stations,-52.0
+1255,2020-12-03,Transit stations,-47.0
+1256,2020-12-04,Transit stations,-51.0
+1257,2020-12-05,Transit stations,-48.0
+1258,2020-12-06,Transit stations,-47.0
+1259,2020-12-07,Transit stations,-49.0
+1260,2020-12-08,Transit stations,-66.0
+1261,2020-12-09,Transit stations,-46.0
+1262,2020-12-10,Transit stations,-44.0
+1263,2020-12-11,Transit stations,-46.0
+1264,2020-12-12,Transit stations,-41.0
+1265,2020-12-13,Transit stations,-24.0
+1266,2020-12-14,Transit stations,-42.0
+1267,2020-12-15,Transit stations,-39.0
+1268,2020-12-16,Transit stations,-40.0
+1269,2020-12-17,Transit stations,-36.0
+1270,2020-12-18,Transit stations,-35.0
+1271,2020-12-19,Transit stations,-27.0
+1272,2020-12-20,Transit stations,-30.0
+1273,2020-12-21,Transit stations,-39.0
+1274,2020-12-22,Transit stations,-35.0
+1275,2020-12-23,Transit stations,-34.0
+1276,2020-12-24,Transit stations,-62.0
+1277,2020-12-25,Transit stations,-85.0
+1278,2020-12-26,Transit stations,-76.0
+1279,2020-12-27,Transit stations,-64.0
+1280,2020-12-28,Transit stations,-49.0
+1281,2020-12-29,Transit stations,-47.0
+1282,2020-12-30,Transit stations,-45.0
+1283,2020-12-31,Transit stations,-63.0
+1284,2020-02-15,Workplaces,0.0
+1285,2020-02-16,Workplaces,0.0
+1286,2020-02-17,Workplaces,0.0
+1287,2020-02-18,Workplaces,0.0
+1288,2020-02-19,Workplaces,0.0
+1289,2020-02-20,Workplaces,0.0
+1290,2020-02-21,Workplaces,0.0
+1291,2020-02-22,Workplaces,-4.0
+1292,2020-02-23,Workplaces,1.0
+1293,2020-02-24,Workplaces,-23.0
+1294,2020-02-25,Workplaces,-23.0
+1295,2020-02-26,Workplaces,-21.0
+1296,2020-02-27,Workplaces,-19.0
+1297,2020-02-28,Workplaces,-18.0
+1298,2020-02-29,Workplaces,-8.0
+1299,2020-03-01,Workplaces,-3.0
+1300,2020-03-02,Workplaces,-16.0
+1301,2020-03-03,Workplaces,-14.0
+1302,2020-03-04,Workplaces,-14.0
+1303,2020-03-05,Workplaces,-15.0
+1304,2020-03-06,Workplaces,-16.0
+1305,2020-03-07,Workplaces,-8.0
+1306,2020-03-08,Workplaces,-6.0
+1307,2020-03-09,Workplaces,-24.0
+1308,2020-03-10,Workplaces,-32.0
+1309,2020-03-11,Workplaces,-38.0
+1310,2020-03-12,Workplaces,-48.0
+1311,2020-03-13,Workplaces,-54.0
+1312,2020-03-14,Workplaces,-56.0
+1313,2020-03-15,Workplaces,-55.0
+1314,2020-03-16,Workplaces,-60.0
+1315,2020-03-17,Workplaces,-62.0
+1316,2020-03-18,Workplaces,-63.0
+1317,2020-03-19,Workplaces,-64.0
+1318,2020-03-20,Workplaces,-65.0
+1319,2020-03-21,Workplaces,-61.0
+1320,2020-03-22,Workplaces,-61.0
+1321,2020-03-23,Workplaces,-72.0
+1322,2020-03-24,Workplaces,-73.0
+1323,2020-03-25,Workplaces,-74.0
+1324,2020-03-26,Workplaces,-75.0
+1325,2020-03-27,Workplaces,-75.0
+1326,2020-03-28,Workplaces,-64.0
+1327,2020-03-29,Workplaces,-61.0
+1328,2020-03-30,Workplaces,-74.0
+1329,2020-03-31,Workplaces,-74.0
+1330,2020-04-01,Workplaces,-74.0
+1331,2020-04-02,Workplaces,-73.0
+1332,2020-04-03,Workplaces,-72.0
+1333,2020-04-04,Workplaces,-63.0
+1334,2020-04-05,Workplaces,-61.0
+1335,2020-04-06,Workplaces,-71.0
+1336,2020-04-07,Workplaces,-71.0
+1337,2020-04-08,Workplaces,-71.0
+1338,2020-04-09,Workplaces,-71.0
+1339,2020-04-10,Workplaces,-71.0
+1340,2020-04-11,Workplaces,-60.0
+1341,2020-04-12,Workplaces,-63.0
+1342,2020-04-13,Workplaces,-92.0
+1343,2020-04-14,Workplaces,-69.0
+1344,2020-04-15,Workplaces,-68.0
+1345,2020-04-16,Workplaces,-67.0
+1346,2020-04-17,Workplaces,-67.0
+1347,2020-04-18,Workplaces,-57.0
+1348,2020-04-19,Workplaces,-58.0
+1349,2020-04-20,Workplaces,-67.0
+1350,2020-04-21,Workplaces,-67.0
+1351,2020-04-22,Workplaces,-65.0
+1352,2020-04-23,Workplaces,-65.0
+1353,2020-04-24,Workplaces,-64.0
+1354,2020-04-25,Workplaces,-73.0
+1355,2020-04-26,Workplaces,-52.0
+1356,2020-04-27,Workplaces,-63.0
+1357,2020-04-28,Workplaces,-64.0
+1358,2020-04-29,Workplaces,-62.0
+1359,2020-04-30,Workplaces,-62.0
+1360,2020-05-01,Workplaces,-89.0
+1361,2020-05-02,Workplaces,-51.0
+1362,2020-05-03,Workplaces,-45.0
+1363,2020-05-04,Workplaces,-50.0
+1364,2020-05-05,Workplaces,-51.0
+1365,2020-05-06,Workplaces,-50.0
+1366,2020-05-07,Workplaces,-50.0
+1367,2020-05-08,Workplaces,-49.0
+1368,2020-05-09,Workplaces,-36.0
+1369,2020-05-10,Workplaces,-27.0
+1370,2020-05-11,Workplaces,-48.0
+1371,2020-05-12,Workplaces,-47.0
+1372,2020-05-13,Workplaces,-49.0
+1373,2020-05-14,Workplaces,-47.0
+1374,2020-05-15,Workplaces,-47.0
+1375,2020-05-16,Workplaces,-33.0
+1376,2020-05-17,Workplaces,-19.0
+1377,2020-05-18,Workplaces,-42.0
+1378,2020-05-19,Workplaces,-42.0
+1379,2020-05-20,Workplaces,-42.0
+1380,2020-05-21,Workplaces,-42.0
+1381,2020-05-22,Workplaces,-41.0
+1382,2020-05-23,Workplaces,-19.0
+1383,2020-05-24,Workplaces,-4.0
+1384,2020-05-25,Workplaces,-40.0
+1385,2020-05-26,Workplaces,-38.0
+1386,2020-05-27,Workplaces,-38.0
+1387,2020-05-28,Workplaces,-38.0
+1388,2020-05-29,Workplaces,-39.0
+1389,2020-05-30,Workplaces,-13.0
+1390,2020-05-31,Workplaces,2.0
+1391,2020-06-01,Workplaces,-52.0
+1392,2020-06-02,Workplaces,-76.0
+1393,2020-06-03,Workplaces,-37.0
+1394,2020-06-04,Workplaces,-38.0
+1395,2020-06-05,Workplaces,-35.0
+1396,2020-06-06,Workplaces,-11.0
+1397,2020-06-07,Workplaces,-1.0
+1398,2020-06-08,Workplaces,-37.0
+1399,2020-06-09,Workplaces,-36.0
+1400,2020-06-10,Workplaces,-35.0
+1401,2020-06-11,Workplaces,-36.0
+1402,2020-06-12,Workplaces,-36.0
+1403,2020-06-13,Workplaces,-10.0
+1404,2020-06-14,Workplaces,10.0
+1405,2020-06-15,Workplaces,-33.0
+1406,2020-06-16,Workplaces,-33.0
+1407,2020-06-17,Workplaces,-33.0
+1408,2020-06-18,Workplaces,-33.0
+1409,2020-06-19,Workplaces,-33.0
+1410,2020-06-20,Workplaces,-6.0
+1411,2020-06-21,Workplaces,9.0
+1412,2020-06-22,Workplaces,-35.0
+1413,2020-06-23,Workplaces,-34.0
+1414,2020-06-24,Workplaces,-44.0
+1415,2020-06-25,Workplaces,-32.0
+1416,2020-06-26,Workplaces,-33.0
+1417,2020-06-27,Workplaces,-9.0
+1418,2020-06-28,Workplaces,13.0
+1419,2020-06-29,Workplaces,-32.0
+1420,2020-06-30,Workplaces,-31.0
+1421,2020-07-01,Workplaces,-30.0
+1422,2020-07-02,Workplaces,-31.0
+1423,2020-07-03,Workplaces,-32.0
+1424,2020-07-04,Workplaces,-6.0
+1425,2020-07-05,Workplaces,9.0
+1426,2020-07-06,Workplaces,-32.0
+1427,2020-07-07,Workplaces,-31.0
+1428,2020-07-08,Workplaces,-29.0
+1429,2020-07-09,Workplaces,-30.0
+1430,2020-07-10,Workplaces,-31.0
+1431,2020-07-11,Workplaces,-5.0
+1432,2020-07-12,Workplaces,13.0
+1433,2020-07-13,Workplaces,-31.0
+1434,2020-07-14,Workplaces,-30.0
+1435,2020-07-15,Workplaces,-29.0
+1436,2020-07-16,Workplaces,-29.0
+1437,2020-07-17,Workplaces,-30.0
+1438,2020-07-18,Workplaces,-5.0
+1439,2020-07-19,Workplaces,14.0
+1440,2020-07-20,Workplaces,-31.0
+1441,2020-07-21,Workplaces,-29.0
+1442,2020-07-22,Workplaces,-29.0
+1443,2020-07-23,Workplaces,-30.0
+1444,2020-07-24,Workplaces,-30.0
+1445,2020-07-25,Workplaces,-5.0
+1446,2020-07-26,Workplaces,14.0
+1447,2020-07-27,Workplaces,-33.0
+1448,2020-07-28,Workplaces,-32.0
+1449,2020-07-29,Workplaces,-32.0
+1450,2020-07-30,Workplaces,-33.0
+1451,2020-07-31,Workplaces,-33.0
+1452,2020-08-01,Workplaces,-12.0
+1453,2020-08-02,Workplaces,7.0
+1454,2020-08-03,Workplaces,-41.0
+1455,2020-08-04,Workplaces,-40.0
+1456,2020-08-05,Workplaces,-40.0
+1457,2020-08-06,Workplaces,-41.0
+1458,2020-08-07,Workplaces,-43.0
+1459,2020-08-08,Workplaces,-18.0
+1460,2020-08-09,Workplaces,4.0
+1461,2020-08-10,Workplaces,-58.0
+1462,2020-08-11,Workplaces,-58.0
+1463,2020-08-12,Workplaces,-59.0
+1464,2020-08-13,Workplaces,-60.0
+1465,2020-08-14,Workplaces,-62.0
+1466,2020-08-15,Workplaces,-50.0
+1467,2020-08-16,Workplaces,-3.0
+1468,2020-08-17,Workplaces,-63.0
+1469,2020-08-18,Workplaces,-59.0
+1470,2020-08-19,Workplaces,-59.0
+1471,2020-08-20,Workplaces,-59.0
+1472,2020-08-21,Workplaces,-59.0
+1473,2020-08-22,Workplaces,-26.0
+1474,2020-08-23,Workplaces,6.0
+1475,2020-08-24,Workplaces,-49.0
+1476,2020-08-25,Workplaces,-47.0
+1477,2020-08-26,Workplaces,-45.0
+1478,2020-08-27,Workplaces,-45.0
+1479,2020-08-28,Workplaces,-46.0
+1480,2020-08-29,Workplaces,-22.0
+1481,2020-08-30,Workplaces,1.0
+1482,2020-08-31,Workplaces,-39.0
+1483,2020-09-01,Workplaces,-36.0
+1484,2020-09-02,Workplaces,-36.0
+1485,2020-09-03,Workplaces,-35.0
+1486,2020-09-04,Workplaces,-35.0
+1487,2020-09-05,Workplaces,-18.0
+1488,2020-09-06,Workplaces,-4.0
+1489,2020-09-07,Workplaces,-36.0
+1490,2020-09-08,Workplaces,-34.0
+1491,2020-09-09,Workplaces,-33.0
+1492,2020-09-10,Workplaces,-33.0
+1493,2020-09-11,Workplaces,-34.0
+1494,2020-09-12,Workplaces,-16.0
+1495,2020-09-13,Workplaces,-4.0
+1496,2020-09-14,Workplaces,-33.0
+1497,2020-09-15,Workplaces,-30.0
+1498,2020-09-16,Workplaces,-30.0
+1499,2020-09-17,Workplaces,-30.0
+1500,2020-09-18,Workplaces,-30.0
+1501,2020-09-19,Workplaces,-15.0
+1502,2020-09-20,Workplaces,-4.0
+1503,2020-09-21,Workplaces,-33.0
+1504,2020-09-22,Workplaces,-31.0
+1505,2020-09-23,Workplaces,-28.0
+1506,2020-09-24,Workplaces,-28.0
+1507,2020-09-25,Workplaces,-29.0
+1508,2020-09-26,Workplaces,-13.0
+1509,2020-09-27,Workplaces,-6.0
+1510,2020-09-28,Workplaces,-27.0
+1511,2020-09-29,Workplaces,-26.0
+1512,2020-09-30,Workplaces,-26.0
+1513,2020-10-01,Workplaces,-23.0
+1514,2020-10-02,Workplaces,-26.0
+1515,2020-10-03,Workplaces,-14.0
+1516,2020-10-04,Workplaces,-9.0
+1517,2020-10-05,Workplaces,-25.0
+1518,2020-10-06,Workplaces,-24.0
+1519,2020-10-07,Workplaces,-23.0
+1520,2020-10-08,Workplaces,-23.0
+1521,2020-10-09,Workplaces,-24.0
+1522,2020-10-10,Workplaces,-12.0
+1523,2020-10-11,Workplaces,-8.0
+1524,2020-10-12,Workplaces,-24.0
+1525,2020-10-13,Workplaces,-23.0
+1526,2020-10-14,Workplaces,-21.0
+1527,2020-10-15,Workplaces,-23.0
+1528,2020-10-16,Workplaces,-23.0
+1529,2020-10-17,Workplaces,-12.0
+1530,2020-10-18,Workplaces,-12.0
+1531,2020-10-19,Workplaces,-24.0
+1532,2020-10-20,Workplaces,-24.0
+1533,2020-10-21,Workplaces,-22.0
+1534,2020-10-22,Workplaces,-23.0
+1535,2020-10-23,Workplaces,-25.0
+1536,2020-10-24,Workplaces,-14.0
+1537,2020-10-25,Workplaces,-14.0
+1538,2020-10-26,Workplaces,-29.0
+1539,2020-10-27,Workplaces,-29.0
+1540,2020-10-28,Workplaces,-28.0
+1541,2020-10-29,Workplaces,-29.0
+1542,2020-10-30,Workplaces,-30.0
+1543,2020-10-31,Workplaces,-20.0
+1544,2020-11-01,Workplaces,-21.0
+1545,2020-11-02,Workplaces,-33.0
+1546,2020-11-03,Workplaces,-32.0
+1547,2020-11-04,Workplaces,-31.0
+1548,2020-11-05,Workplaces,-32.0
+1549,2020-11-06,Workplaces,-40.0
+1550,2020-11-07,Workplaces,-36.0
+1551,2020-11-08,Workplaces,-40.0
+1552,2020-11-09,Workplaces,-39.0
+1553,2020-11-10,Workplaces,-40.0
+1554,2020-11-11,Workplaces,-39.0
+1555,2020-11-12,Workplaces,-39.0
+1556,2020-11-13,Workplaces,-39.0
+1557,2020-11-14,Workplaces,-33.0
+1558,2020-11-15,Workplaces,-40.0
+1559,2020-11-16,Workplaces,-39.0
+1560,2020-11-17,Workplaces,-39.0
+1561,2020-11-18,Workplaces,-38.0
+1562,2020-11-19,Workplaces,-38.0
+1563,2020-11-20,Workplaces,-38.0
+1564,2020-11-21,Workplaces,-31.0
+1565,2020-11-22,Workplaces,-36.0
+1566,2020-11-23,Workplaces,-37.0
+1567,2020-11-24,Workplaces,-37.0
+1568,2020-11-25,Workplaces,-36.0
+1569,2020-11-26,Workplaces,-36.0
+1570,2020-11-27,Workplaces,-35.0
+1571,2020-11-28,Workplaces,-28.0
+1572,2020-11-29,Workplaces,-28.0
+1573,2020-11-30,Workplaces,-33.0
+1574,2020-12-01,Workplaces,-33.0
+1575,2020-12-02,Workplaces,-32.0
+1576,2020-12-03,Workplaces,-32.0
+1577,2020-12-04,Workplaces,-34.0
+1578,2020-12-05,Workplaces,-24.0
+1579,2020-12-06,Workplaces,-23.0
+1580,2020-12-07,Workplaces,-53.0
+1581,2020-12-08,Workplaces,-80.0
+1582,2020-12-09,Workplaces,-29.0
+1583,2020-12-10,Workplaces,-30.0
+1584,2020-12-11,Workplaces,-30.0
+1585,2020-12-12,Workplaces,-18.0
+1586,2020-12-13,Workplaces,-10.0
+1587,2020-12-14,Workplaces,-29.0
+1588,2020-12-15,Workplaces,-29.0
+1589,2020-12-16,Workplaces,-27.0
+1590,2020-12-17,Workplaces,-28.0
+1591,2020-12-18,Workplaces,-28.0
+1592,2020-12-19,Workplaces,-15.0
+1593,2020-12-20,Workplaces,-6.0
+1594,2020-12-21,Workplaces,-29.0
+1595,2020-12-22,Workplaces,-29.0
+1596,2020-12-23,Workplaces,-34.0
+1597,2020-12-24,Workplaces,-64.0
+1598,2020-12-25,Workplaces,-87.0
+1599,2020-12-26,Workplaces,-65.0
+1600,2020-12-27,Workplaces,-25.0
+1601,2020-12-28,Workplaces,-50.0
+1602,2020-12-29,Workplaces,-48.0
+1603,2020-12-30,Workplaces,-48.0
+1604,2020-12-31,Workplaces,-66.0
+1605,2020-02-15,Residential,-1.0
+1606,2020-02-16,Residential,-1.0
+1607,2020-02-17,Residential,0.0
+1608,2020-02-18,Residential,0.0
+1609,2020-02-19,Residential,0.0
+1610,2020-02-20,Residential,-1.0
+1611,2020-02-21,Residential,0.0
+1612,2020-02-22,Residential,-1.0
+1613,2020-02-23,Residential,0.0
+1614,2020-02-24,Residential,6.0
+1615,2020-02-25,Residential,8.0
+1616,2020-02-26,Residential,8.0
+1617,2020-02-27,Residential,8.0
+1618,2020-02-28,Residential,7.0
+1619,2020-02-29,Residential,4.0
+1620,2020-03-01,Residential,2.0
+1621,2020-03-02,Residential,7.0
+1622,2020-03-03,Residential,5.0
+1623,2020-03-04,Residential,5.0
+1624,2020-03-05,Residential,7.0
+1625,2020-03-06,Residential,8.0
+1626,2020-03-07,Residential,4.0
+1627,2020-03-08,Residential,4.0
+1628,2020-03-09,Residential,11.0
+1629,2020-03-10,Residential,17.0
+1630,2020-03-11,Residential,20.0
+1631,2020-03-12,Residential,25.0
+1632,2020-03-13,Residential,29.0
+1633,2020-03-14,Residential,25.0
+1634,2020-03-15,Residential,22.0
+1635,2020-03-16,Residential,28.0
+1636,2020-03-17,Residential,30.0
+1637,2020-03-18,Residential,31.0
+1638,2020-03-19,Residential,32.0
+1639,2020-03-20,Residential,34.0
+1640,2020-03-21,Residential,26.0
+1641,2020-03-22,Residential,24.0
+1642,2020-03-23,Residential,34.0
+1643,2020-03-24,Residential,35.0
+1644,2020-03-25,Residential,36.0
+1645,2020-03-26,Residential,37.0
+1646,2020-03-27,Residential,39.0
+1647,2020-03-28,Residential,27.0
+1648,2020-03-29,Residential,23.0
+1649,2020-03-30,Residential,35.0
+1650,2020-03-31,Residential,36.0
+1651,2020-04-01,Residential,36.0
+1652,2020-04-02,Residential,36.0
+1653,2020-04-03,Residential,38.0
+1654,2020-04-04,Residential,27.0
+1655,2020-04-05,Residential,24.0
+1656,2020-04-06,Residential,33.0
+1657,2020-04-07,Residential,34.0
+1658,2020-04-08,Residential,34.0
+1659,2020-04-09,Residential,34.0
+1660,2020-04-10,Residential,36.0
+1661,2020-04-11,Residential,26.0
+1662,2020-04-12,Residential,24.0
+1663,2020-04-13,Residential,42.0
+1664,2020-04-14,Residential,33.0
+1665,2020-04-15,Residential,33.0
+1666,2020-04-16,Residential,34.0
+1667,2020-04-17,Residential,35.0
+1668,2020-04-18,Residential,26.0
+1669,2020-04-19,Residential,23.0
+1670,2020-04-20,Residential,32.0
+1671,2020-04-21,Residential,33.0
+1672,2020-04-22,Residential,32.0
+1673,2020-04-23,Residential,32.0
+1674,2020-04-24,Residential,33.0
+1675,2020-04-25,Residential,30.0
+1676,2020-04-26,Residential,22.0
+1677,2020-04-27,Residential,30.0
+1678,2020-04-28,Residential,32.0
+1679,2020-04-29,Residential,30.0
+1680,2020-04-30,Residential,30.0
+1681,2020-05-01,Residential,46.0
+1682,2020-05-02,Residential,24.0
+1683,2020-05-03,Residential,21.0
+1684,2020-05-04,Residential,21.0
+1685,2020-05-05,Residential,22.0
+1686,2020-05-06,Residential,23.0
+1687,2020-05-07,Residential,23.0
+1688,2020-05-08,Residential,24.0
+1689,2020-05-09,Residential,16.0
+1690,2020-05-10,Residential,15.0
+1691,2020-05-11,Residential,22.0
+1692,2020-05-12,Residential,21.0
+1693,2020-05-13,Residential,25.0
+1694,2020-05-14,Residential,22.0
+1695,2020-05-15,Residential,24.0
+1696,2020-05-16,Residential,18.0
+1697,2020-05-17,Residential,13.0
+1698,2020-05-18,Residential,17.0
+1699,2020-05-19,Residential,18.0
+1700,2020-05-20,Residential,17.0
+1701,2020-05-21,Residential,17.0
+1702,2020-05-22,Residential,18.0
+1703,2020-05-23,Residential,10.0
+1704,2020-05-24,Residential,4.0
+1705,2020-05-25,Residential,15.0
+1706,2020-05-26,Residential,15.0
+1707,2020-05-27,Residential,15.0
+1708,2020-05-28,Residential,15.0
+1709,2020-05-29,Residential,16.0
+1710,2020-05-30,Residential,6.0
+1711,2020-05-31,Residential,4.0
+1712,2020-06-01,Residential,13.0
+1713,2020-06-02,Residential,18.0
+1714,2020-06-03,Residential,14.0
+1715,2020-06-04,Residential,16.0
+1716,2020-06-05,Residential,12.0
+1717,2020-06-06,Residential,4.0
+1718,2020-06-07,Residential,6.0
+1719,2020-06-08,Residential,14.0
+1720,2020-06-09,Residential,14.0
+1721,2020-06-10,Residential,12.0
+1722,2020-06-11,Residential,14.0
+1723,2020-06-12,Residential,14.0
+1724,2020-06-13,Residential,7.0
+1725,2020-06-14,Residential,-1.0
+1726,2020-06-15,Residential,9.0
+1727,2020-06-16,Residential,11.0
+1728,2020-06-17,Residential,12.0
+1729,2020-06-18,Residential,10.0
+1730,2020-06-19,Residential,9.0
+1731,2020-06-20,Residential,0.0
+1732,2020-06-21,Residential,-4.0
+1733,2020-06-22,Residential,8.0
+1734,2020-06-23,Residential,7.0
+1735,2020-06-24,Residential,10.0
+1736,2020-06-25,Residential,8.0
+1737,2020-06-26,Residential,8.0
+1738,2020-06-27,Residential,1.0
+1739,2020-06-28,Residential,-4.0
+1740,2020-06-29,Residential,6.0
+1741,2020-06-30,Residential,7.0
+1742,2020-07-01,Residential,8.0
+1743,2020-07-02,Residential,7.0
+1744,2020-07-03,Residential,9.0
+1745,2020-07-04,Residential,-2.0
+1746,2020-07-05,Residential,-6.0
+1747,2020-07-06,Residential,5.0
+1748,2020-07-07,Residential,6.0
+1749,2020-07-08,Residential,6.0
+1750,2020-07-09,Residential,5.0
+1751,2020-07-10,Residential,6.0
+1752,2020-07-11,Residential,-1.0
+1753,2020-07-12,Residential,-5.0
+1754,2020-07-13,Residential,5.0
+1755,2020-07-14,Residential,5.0
+1756,2020-07-15,Residential,6.0
+1757,2020-07-16,Residential,5.0
+1758,2020-07-17,Residential,5.0
+1759,2020-07-18,Residential,-2.0
+1760,2020-07-19,Residential,-6.0
+1761,2020-07-20,Residential,4.0
+1762,2020-07-21,Residential,5.0
+1763,2020-07-22,Residential,6.0
+1764,2020-07-23,Residential,4.0
+1765,2020-07-24,Residential,5.0
+1766,2020-07-25,Residential,-3.0
+1767,2020-07-26,Residential,-7.0
+1768,2020-07-27,Residential,3.0
+1769,2020-07-28,Residential,5.0
+1770,2020-07-29,Residential,4.0
+1771,2020-07-30,Residential,4.0
+1772,2020-07-31,Residential,3.0
+1773,2020-08-01,Residential,-3.0
+1774,2020-08-02,Residential,-5.0
+1775,2020-08-03,Residential,5.0
+1776,2020-08-04,Residential,4.0
+1777,2020-08-05,Residential,4.0
+1778,2020-08-06,Residential,4.0
+1779,2020-08-07,Residential,4.0
+1780,2020-08-08,Residential,-3.0
+1781,2020-08-09,Residential,-6.0
+1782,2020-08-10,Residential,6.0
+1783,2020-08-11,Residential,7.0
+1784,2020-08-12,Residential,9.0
+1785,2020-08-13,Residential,9.0
+1786,2020-08-14,Residential,8.0
+1787,2020-08-15,Residential,-4.0
+1788,2020-08-16,Residential,-4.0
+1789,2020-08-17,Residential,8.0
+1790,2020-08-18,Residential,8.0
+1791,2020-08-19,Residential,8.0
+1792,2020-08-20,Residential,8.0
+1793,2020-08-21,Residential,9.0
+1794,2020-08-22,Residential,-2.0
+1795,2020-08-23,Residential,-6.0
+1796,2020-08-24,Residential,6.0
+1797,2020-08-25,Residential,7.0
+1798,2020-08-26,Residential,6.0
+1799,2020-08-27,Residential,6.0
+1800,2020-08-28,Residential,9.0
+1801,2020-08-29,Residential,1.0
+1802,2020-08-30,Residential,-2.0
+1803,2020-08-31,Residential,5.0
+1804,2020-09-01,Residential,5.0
+1805,2020-09-02,Residential,6.0
+1806,2020-09-03,Residential,4.0
+1807,2020-09-04,Residential,4.0
+1808,2020-09-05,Residential,-3.0
+1809,2020-09-06,Residential,-4.0
+1810,2020-09-07,Residential,5.0
+1811,2020-09-08,Residential,4.0
+1812,2020-09-09,Residential,4.0
+1813,2020-09-10,Residential,3.0
+1814,2020-09-11,Residential,4.0
+1815,2020-09-12,Residential,-3.0
+1816,2020-09-13,Residential,-5.0
+1817,2020-09-14,Residential,3.0
+1818,2020-09-15,Residential,3.0
+1819,2020-09-16,Residential,3.0
+1820,2020-09-17,Residential,3.0
+1821,2020-09-18,Residential,3.0
+1822,2020-09-19,Residential,-1.0
+1823,2020-09-20,Residential,-2.0
+1824,2020-09-21,Residential,4.0
+1825,2020-09-22,Residential,6.0
+1826,2020-09-23,Residential,4.0
+1827,2020-09-24,Residential,5.0
+1828,2020-09-25,Residential,5.0
+1829,2020-09-26,Residential,0.0
+1830,2020-09-27,Residential,0.0
+1831,2020-09-28,Residential,4.0
+1832,2020-09-29,Residential,4.0
+1833,2020-09-30,Residential,4.0
+1834,2020-10-01,Residential,4.0
+1835,2020-10-02,Residential,7.0
+1836,2020-10-03,Residential,1.0
+1837,2020-10-04,Residential,2.0
+1838,2020-10-05,Residential,5.0
+1839,2020-10-06,Residential,4.0
+1840,2020-10-07,Residential,5.0
+1841,2020-10-08,Residential,4.0
+1842,2020-10-09,Residential,5.0
+1843,2020-10-10,Residential,2.0
+1844,2020-10-11,Residential,2.0
+1845,2020-10-12,Residential,5.0
+1846,2020-10-13,Residential,6.0
+1847,2020-10-14,Residential,7.0
+1848,2020-10-15,Residential,8.0
+1849,2020-10-16,Residential,7.0
+1850,2020-10-17,Residential,3.0
+1851,2020-10-18,Residential,4.0
+1852,2020-10-19,Residential,8.0
+1853,2020-10-20,Residential,8.0
+1854,2020-10-21,Residential,9.0
+1855,2020-10-22,Residential,9.0
+1856,2020-10-23,Residential,10.0
+1857,2020-10-24,Residential,6.0
+1858,2020-10-25,Residential,6.0
+1859,2020-10-26,Residential,12.0
+1860,2020-10-27,Residential,11.0
+1861,2020-10-28,Residential,12.0
+1862,2020-10-29,Residential,12.0
+1863,2020-10-30,Residential,13.0
+1864,2020-10-31,Residential,8.0
+1865,2020-11-01,Residential,8.0
+1866,2020-11-02,Residential,12.0
+1867,2020-11-03,Residential,13.0
+1868,2020-11-04,Residential,12.0
+1869,2020-11-05,Residential,12.0
+1870,2020-11-06,Residential,23.0
+1871,2020-11-07,Residential,21.0
+1872,2020-11-08,Residential,19.0
+1873,2020-11-09,Residential,19.0
+1874,2020-11-10,Residential,19.0
+1875,2020-11-11,Residential,20.0
+1876,2020-11-12,Residential,20.0
+1877,2020-11-13,Residential,22.0
+1878,2020-11-14,Residential,19.0
+1879,2020-11-15,Residential,19.0
+1880,2020-11-16,Residential,18.0
+1881,2020-11-17,Residential,19.0
+1882,2020-11-18,Residential,19.0
+1883,2020-11-19,Residential,19.0
+1884,2020-11-20,Residential,21.0
+1885,2020-11-21,Residential,18.0
+1886,2020-11-22,Residential,17.0
+1887,2020-11-23,Residential,18.0
+1888,2020-11-24,Residential,18.0
+1889,2020-11-25,Residential,18.0
+1890,2020-11-26,Residential,18.0
+1891,2020-11-27,Residential,20.0
+1892,2020-11-28,Residential,17.0
+1893,2020-11-29,Residential,15.0
+1894,2020-11-30,Residential,16.0
+1895,2020-12-01,Residential,16.0
+1896,2020-12-02,Residential,18.0
+1897,2020-12-03,Residential,16.0
+1898,2020-12-04,Residential,19.0
+1899,2020-12-05,Residential,15.0
+1900,2020-12-06,Residential,14.0
+1901,2020-12-07,Residential,19.0
+1902,2020-12-08,Residential,32.0
+1903,2020-12-09,Residential,14.0
+1904,2020-12-10,Residential,15.0
+1905,2020-12-11,Residential,16.0
+1906,2020-12-12,Residential,13.0
+1907,2020-12-13,Residential,8.0
+1908,2020-12-14,Residential,12.0
+1909,2020-12-15,Residential,12.0
+1910,2020-12-16,Residential,12.0
+1911,2020-12-17,Residential,11.0
+1912,2020-12-18,Residential,12.0
+1913,2020-12-19,Residential,8.0
+1914,2020-12-20,Residential,7.0
+1915,2020-12-21,Residential,10.0
+1916,2020-12-22,Residential,10.0
+1917,2020-12-23,Residential,10.0
+1918,2020-12-24,Residential,25.0
+1919,2020-12-25,Residential,34.0
+1920,2020-12-26,Residential,21.0
+1921,2020-12-27,Residential,14.0
+1922,2020-12-28,Residential,18.0
+1923,2020-12-29,Residential,18.0
+1924,2020-12-30,Residential,17.0
+1925,2020-12-31,Residential,25.0
+1926,2020-02-15,NOx,-22.928204230829454
+1927,2020-02-16,NOx,-42.079520596841085
+1928,2020-02-17,NOx,-36.33909211795793
+1929,2020-02-18,NOx,-13.135664931473048
+1930,2020-02-19,NOx,-45.689569369283376
+1931,2020-02-20,NOx,-38.3226550835284
+1932,2020-02-21,NOx,-2.5347187425086486
+1933,2020-02-22,NOx,-36.45854792767184
+1934,2020-02-23,NOx,-44.062669790255406
+1935,2020-02-24,NOx,-41.20341138568069
+1936,2020-02-25,NOx,-59.76771656509662
+1937,2020-02-26,NOx,-82.84632336749337
+1938,2020-02-27,NOx,-69.78613163391611
+1939,2020-02-28,NOx,-64.5583503502143
+1940,2020-02-29,NOx,-63.79503593698195
+1941,2020-03-01,NOx,-77.68747867991799
+1942,2020-03-02,NOx,-64.87071769556411
+1943,2020-03-03,NOx,-72.75452827052077
+1944,2020-03-04,NOx,-48.00151258781225
+1945,2020-03-05,NOx,-69.83243024986288
+1946,2020-03-06,NOx,-57.02393764739445
+1947,2020-03-07,NOx,-56.781208593437015
+1948,2020-03-08,NOx,-73.0418619166168
+1949,2020-03-09,NOx,-68.44175953937147
+1950,2020-03-10,NOx,-59.21498053996922
+1951,2020-03-11,NOx,-57.80859647718442
+1952,2020-03-12,NOx,-80.89846192575537
+1953,2020-03-13,NOx,-77.36644607115505
+1954,2020-03-14,NOx,-86.04716146266419
+1955,2020-03-15,NOx,-87.20525953738266
+1956,2020-03-16,NOx,-72.74072661212068
+1957,2020-03-17,NOx,-65.59099756880201
+1958,2020-03-18,NOx,-71.37239336369086
+1959,2020-03-19,NOx,-71.33119848701674
+1960,2020-03-20,NOx,-72.84116390548493
+1961,2020-03-21,NOx,-81.93659395265034
+1962,2020-03-22,NOx,-91.42902551092482
+1963,2020-03-23,NOx,-91.33680093078348
+1964,2020-03-24,NOx,-89.64233600206313
+1965,2020-03-25,NOx,-89.13825932270288
+1966,2020-03-26,NOx,-86.71984120097581
+1967,2020-03-27,NOx,-86.0259168645051
+1968,2020-03-28,NOx,-81.71352492577562
+1969,2020-03-29,NOx,-86.8113844468364
+1970,2020-03-30,NOx,-88.84861727001255
+1971,2020-03-31,NOx,-91.29742719877241
+1972,2020-04-01,NOx,-85.22551440579933
+1973,2020-04-02,NOx,-82.19331654009981
+1974,2020-04-03,NOx,-79.83873086491326
+1975,2020-04-04,NOx,-83.04295233764657
+1976,2020-04-05,NOx,-87.73536534191226
+1977,2020-04-06,NOx,-82.15686498444899
+1978,2020-04-07,NOx,-80.80483964906486
+1979,2020-04-08,NOx,-82.2792392837737
+1980,2020-04-09,NOx,-79.94810262632741
+1981,2020-04-10,NOx,-78.42916786395875
+1982,2020-04-11,NOx,-83.71631074582845
+1983,2020-04-12,NOx,-90.87775674529018
+1984,2020-04-13,NOx,-92.2142256381987
+1985,2020-04-14,NOx,-87.70991682940033
+1986,2020-04-15,NOx,-91.39549344926881
+1987,2020-04-16,NOx,-83.10347518089453
+1988,2020-04-17,NOx,-82.47575150468035
+1989,2020-04-18,NOx,-85.19193475833899
+1990,2020-04-19,NOx,-91.48846295805366
+1991,2020-04-20,NOx,-90.66567419296246
+1992,2020-04-21,NOx,-90.85295728608271
+1993,2020-04-22,NOx,-86.07646379608991
+1994,2020-04-23,NOx,-83.20613424839355
+1995,2020-04-24,NOx,-81.72392577495421
+1996,2020-04-25,NOx,-90.27780619095427
+1997,2020-04-26,NOx,-92.86224925953931
+1998,2020-04-27,NOx,-88.75229026881345
+1999,2020-04-28,NOx,-89.41340319515112
+2000,2020-04-29,NOx,-85.39140861093449
+2001,2020-04-30,NOx,-87.50363416839016
+2002,2020-05-01,NOx,-92.90375608340898
+2003,2020-05-02,NOx,-91.24487966730632
+2004,2020-05-03,NOx,-92.21677265438308
+2005,2020-05-04,NOx,-87.77675741764274
+2006,2020-05-05,NOx,-84.06706262508689
+2007,2020-05-06,NOx,-86.84741564876366
+2008,2020-05-07,NOx,-88.41257415402495
+2009,2020-05-08,NOx,-80.74718275719741
+2010,2020-05-09,NOx,-88.03406457828765
+2011,2020-05-10,NOx,-92.42171370792397
+2012,2020-05-11,NOx,-88.01490256205332
+2013,2020-05-12,NOx,-87.81834744196183
+2014,2020-05-13,NOx,-84.20094495563222
+2015,2020-05-14,NOx,-84.54971949652887
+2016,2020-05-15,NOx,-87.58319223459323
+2017,2020-05-16,NOx,-89.80780150238395
+2018,2020-05-17,NOx,-91.75172331890559
+2019,2020-05-18,NOx,-82.87996873902267
+2020,2020-05-19,NOx,-84.72248156922618
+2021,2020-05-20,NOx,-81.58608082358921
+2022,2020-05-21,NOx,-86.42638478638906
+2023,2020-05-22,NOx,-81.95127912855541
+2024,2020-05-23,NOx,-86.10698907350378
+2025,2020-05-24,NOx,-90.13640525796005
+2026,2020-05-25,NOx,-86.20672779145158
+2027,2020-05-26,NOx,-87.12583621078406
+2028,2020-05-27,NOx,-87.28122918316876
+2029,2020-05-28,NOx,-84.86607944459942
+2030,2020-05-29,NOx,-86.9874529789904
+2031,2020-05-30,NOx,-85.81267042987773
+2032,2020-05-31,NOx,-90.43514281793271
+2033,2020-06-01,NOx,-84.86355875655937
+2034,2020-06-02,NOx,-89.03880201729424
+2035,2020-06-03,NOx,-84.08383108780944
+2036,2020-06-04,NOx,-85.87356038263428
+2037,2020-06-05,NOx,-84.07292587997662
+2038,2020-06-06,NOx,-85.94193497899877
+2039,2020-06-07,NOx,-90.9425729367678
+2040,2020-06-08,NOx,-83.39138056458407
+2041,2020-06-09,NOx,-83.29254975344855
+2042,2020-06-10,NOx,-79.2911763595323
+2043,2020-06-11,NOx,-83.75675484984131
+2044,2020-06-12,NOx,-81.6812333707479
+2045,2020-06-13,NOx,-79.98862262195755
+2046,2020-06-14,NOx,-87.64143149388005
+2047,2020-06-15,NOx,-82.49710109499628
+2048,2020-06-16,NOx,-83.32033612151426
+2049,2020-06-17,NOx,-81.81912414188108
+2050,2020-06-18,NOx,-80.71192182977151
+2051,2020-06-19,NOx,-84.04121742148656
+2052,2020-06-20,NOx,-87.48353485964748
+2053,2020-06-21,NOx,-86.8640380268123
+2054,2020-06-22,NOx,-79.98466171106611
+2055,2020-06-23,NOx,-78.72792557364363
+2056,2020-06-24,NOx,-86.38279395332364
+2057,2020-06-25,NOx,-87.12916516580896
+2058,2020-06-26,NOx,-86.26151927724173
+2059,2020-06-27,NOx,-84.34949992917522
+2060,2020-06-28,NOx,-87.126768619508
+2061,2020-06-29,NOx,-84.70626461780788
+2062,2020-06-30,NOx,-85.7855099093611
+2063,2020-07-01,NOx,-84.47718783456658
+2064,2020-07-02,NOx,-82.56857152945115
+2065,2020-07-03,NOx,-83.36887677448814
+2066,2020-07-04,NOx,-86.28022357463965
+2067,2020-07-05,NOx,-88.63653721086501
+2068,2020-07-06,NOx,-85.645465685615
+2069,2020-07-07,NOx,-88.25017391139576
+2070,2020-07-08,NOx,-88.82587758468549
+2071,2020-07-09,NOx,-84.31497063696632
+2072,2020-07-10,NOx,-85.19660809880193
+2073,2020-07-11,NOx,-87.10591256883636
+2074,2020-07-12,NOx,-92.47745381418599
+2075,2020-07-13,NOx,-87.89680950218992
+2076,2020-07-14,NOx,-86.91326320527466
+2077,2020-07-15,NOx,-82.663288710282
+2078,2020-07-16,NOx,-84.96753525127038
+2079,2020-07-17,NOx,-86.31165817301537
+2080,2020-07-18,NOx,-91.00133752449909
+2081,2020-07-19,NOx,-88.80843575289505
+2082,2020-07-20,NOx,-87.88486406055426
+2083,2020-07-21,NOx,-84.87671042733156
+2084,2020-07-22,NOx,-82.501990332179
+2085,2020-07-23,NOx,-82.33096411256544
+2086,2020-07-24,NOx,-85.91374082668608
+2087,2020-07-25,NOx,-83.39293930281617
+2088,2020-07-26,NOx,-90.31149431433823
+2089,2020-07-27,NOx,-86.20138895319592
+2090,2020-07-28,NOx,-82.23939889300856
+2091,2020-07-29,NOx,-82.44581265238861
+2092,2020-07-30,NOx,-82.95630221632457
+2093,2020-07-31,NOx,-79.46908549564435
+2094,2020-08-01,NOx,-84.08236190490574
+2095,2020-08-02,NOx,-90.9529409859417
+2096,2020-08-03,NOx,-83.97107491778165
+2097,2020-08-04,NOx,-85.29486186761375
+2098,2020-08-05,NOx,-83.32609639039174
+2099,2020-08-06,NOx,-84.67126737477258
+2100,2020-08-07,NOx,-83.53352557228278
+2101,2020-08-08,NOx,-86.6473566223539
+2102,2020-08-09,NOx,-88.29013309573475
+2103,2020-08-10,NOx,-86.69515323285924
+2104,2020-08-11,NOx,-83.46959267589347
+2105,2020-08-12,NOx,-86.84981726482883
+2106,2020-08-13,NOx,-88.21167628601648
+2107,2020-08-14,NOx,-87.44025630823225
+2108,2020-08-15,NOx,-90.1571875673588
+2109,2020-08-16,NOx,-90.6790721336647
+2110,2020-08-17,NOx,-85.3183258365783
+2111,2020-08-18,NOx,-83.24006383870416
+2112,2020-08-19,NOx,-88.3881774648367
+2113,2020-08-20,NOx,-86.43786868075279
+2114,2020-08-21,NOx,-86.09410845003913
+2115,2020-08-22,NOx,-89.16722922557483
+2116,2020-08-23,NOx,-90.90312479303665
+2117,2020-08-24,NOx,-87.8827045105439
+2118,2020-08-25,NOx,-85.50903912857663
+2119,2020-08-26,NOx,-83.8768566747864
+2120,2020-08-27,NOx,-84.96955190584632
+2121,2020-08-28,NOx,-83.5256835924283
+2122,2020-08-29,NOx,-85.16898014918337
+2123,2020-08-30,NOx,-92.23068966346052
+2124,2020-08-31,NOx,-83.07599239019515
+2125,2020-09-01,NOx,-80.08120006332314
+2126,2020-09-02,NOx,-85.36924849317043
+2127,2020-09-03,NOx,-79.74939787541393
+2128,2020-09-04,NOx,-78.9749420447076
+2129,2020-09-05,NOx,-80.36026015235397
+2130,2020-09-06,NOx,-87.32906824422564
+2131,2020-09-07,NOx,-81.46705279701364
+2132,2020-09-08,NOx,-74.03683790686678
+2133,2020-09-09,NOx,-73.38837366133319
+2134,2020-09-10,NOx,-72.26954761646755
+2135,2020-09-11,NOx,-69.85953005461955
+2136,2020-09-12,NOx,-68.19356772646468
+2137,2020-09-13,NOx,-79.72594006402741
+2138,2020-09-14,NOx,-73.95723047342712
+2139,2020-09-15,NOx,-76.72864913872588
+2140,2020-09-16,NOx,-69.83920378961895
+2141,2020-09-17,NOx,-70.50407181619123
+2142,2020-09-18,NOx,-74.90421715239279
+2143,2020-09-19,NOx,-82.98541240470216
+2144,2020-09-20,NOx,-84.70609907216246
+2145,2020-09-21,NOx,-80.99148749144811
+2146,2020-09-22,NOx,-74.06066967080045
+2147,2020-09-23,NOx,-73.20128527303883
+2148,2020-09-24,NOx,-72.24291434266065
+2149,2020-09-25,NOx,-84.6493988537265
+2150,2020-09-26,NOx,-83.46450861094107
+2151,2020-09-27,NOx,-82.4006762806943
+2152,2020-09-28,NOx,-70.9140762594331
+2153,2020-09-29,NOx,-61.68198783124181
+2154,2020-09-30,NOx,-66.56703632916494
+2155,2020-10-01,NOx,-69.79258869587105
+2156,2020-10-02,NOx,-72.74094268683882
+2157,2020-10-03,NOx,-84.81240085391902
+2158,2020-10-04,NOx,-82.08642890403118
+2159,2020-10-05,NOx,-70.41835646279749
+2160,2020-10-06,NOx,-62.18997922522448
+2161,2020-10-07,NOx,-60.21762442200874
+2162,2020-10-08,NOx,-48.531338208455566
+2163,2020-10-09,NOx,-47.496406735405714
+2164,2020-10-10,NOx,-61.02637922416827
+2165,2020-10-11,NOx,-80.87805103615958
+2166,2020-10-12,NOx,-56.893209185346706
+2167,2020-10-13,NOx,-53.992641539226824
+2168,2020-10-14,NOx,-64.57556936060291
+2169,2020-10-15,NOx,-64.35526456723265
+2170,2020-10-16,NOx,-57.86422161838599
+2171,2020-10-17,NOx,-59.29791591403295
+2172,2020-10-18,NOx,-74.75197486416938
+2173,2020-10-19,NOx,-68.15482950065935
+2174,2020-10-20,NOx,-61.7512789643993
+2175,2020-10-21,NOx,-57.269887646936205
+2176,2020-10-22,NOx,-54.06469565220832
+2177,2020-10-23,NOx,-57.520114317065925
+2178,2020-10-24,NOx,-64.4249020681243
+2179,2020-10-25,NOx,-75.73652234673499
+2180,2020-10-26,NOx,-70.90888524490093
+2181,2020-10-27,NOx,-60.44753617373099
+2182,2020-10-28,NOx,-46.725054685212335
+2183,2020-10-29,NOx,-28.61184022491792
+2184,2020-10-30,NOx,-13.15046051078063
+2185,2020-10-31,NOx,-41.25756829434152
+2186,2020-11-01,NOx,-63.72752202716037
+2187,2020-11-02,NOx,-47.013314656217645
+2188,2020-11-03,NOx,-49.47638338862249
+2189,2020-11-04,NOx,-59.76130874248772
+2190,2020-11-05,NOx,-42.13761273852359
+2191,2020-11-06,NOx,-45.620569933439235
+2192,2020-11-07,NOx,-45.7139886115861
+2193,2020-11-08,NOx,-64.90249675485585
+2194,2020-11-09,NOx,-30.11133571639379
+2195,2020-11-10,NOx,-12.182915699574618
+2196,2020-11-11,NOx,-31.160572066947495
+2197,2020-11-12,NOx,-71.32882676635018
+2198,2020-11-13,NOx,-45.13461188672598
+2199,2020-11-14,NOx,-49.84713050167115
+2200,2020-11-15,NOx,-71.89524165862133
+2201,2020-11-16,NOx,-44.151599879274485
+2202,2020-11-17,NOx,-29.478015644654526
+2203,2020-11-18,NOx,-9.918894737135933
+2204,2020-11-19,NOx,-18.488199817616525
+2205,2020-11-20,NOx,-19.472510868381768
+2206,2020-11-21,NOx,-64.46803393831061
+2207,2020-11-22,NOx,-65.88711943292142
+2208,2020-11-23,NOx,-27.037348369015636
+2209,2020-11-24,NOx,-19.276213351275548
+2210,2020-11-25,NOx,17.60477516209611
+2211,2020-11-26,NOx,19.890272957824628
+2212,2020-11-27,NOx,17.54518598081305
+2213,2020-11-28,NOx,-27.8912617894785
+2214,2020-11-29,NOx,-68.14462784069201
+2215,2020-11-30,NOx,-57.380205098201024
+2216,2020-12-01,NOx,-56.09926798235439
+2217,2020-12-02,NOx,-64.51442164023443
+2218,2020-12-03,NOx,-55.26286994840429
+2219,2020-12-04,NOx,-48.890627956898555
+2220,2020-12-05,NOx,-55.03877510428134
+2221,2020-12-06,NOx,-75.52910648617423
+2222,2020-12-07,NOx,-72.42779772120548
+2223,2020-12-08,NOx,-74.1611046375299
+2224,2020-12-09,NOx,-52.70171595059756
+2225,2020-12-10,NOx,-19.386588183111645
+2226,2020-12-11,NOx,10.119284881914131
+2227,2020-12-12,NOx,-33.28686572904809
+2228,2020-12-13,NOx,-36.00941927085205
+2229,2020-12-14,NOx,23.339508255568425
+2230,2020-12-15,NOx,9.293029514131417
+2231,2020-12-16,NOx,-27.567468730657843
+2232,2020-12-17,NOx,-16.16091388352616
+2233,2020-12-18,NOx,15.88636906681965
+2234,2020-12-19,NOx,-16.28485716173685
+2235,2020-12-20,NOx,-55.92188795175943
+2236,2020-12-21,NOx,-24.29556000293674
+2237,2020-12-22,NOx,32.02554228084131
+2238,2020-12-23,NOx,-6.869680772844278
+2239,2020-12-24,NOx,-58.39656849351594
+2240,2020-12-25,NOx,-81.33323909492225
+2241,2020-12-26,NOx,-71.61624971943272
+2242,2020-12-27,NOx,-67.26898436210696
+2243,2020-12-28,NOx,-60.62956312565634
+2244,2020-12-29,NOx,-7.842666905262232
+2245,2020-12-30,NOx,-16.11268676986957
+2246,2020-12-31,NOx,-33.88381375842332
+2247,2020-02-15,NO,-34.98503744842525
+2248,2020-02-16,NO,-59.52333047851751
+2249,2020-02-17,NO,-50.453337007923764
+2250,2020-02-18,NO,-18.83591898860479
+2251,2020-02-19,NO,-60.660549263222464
+2252,2020-02-20,NO,-55.21839614201265
+2253,2020-02-21,NO,-10.065625930836461
+2254,2020-02-22,NO,-52.818415465349474
+2255,2020-02-23,NO,-60.63901375818831
+2256,2020-02-24,NO,-53.27053633516266
+2257,2020-02-25,NO,-75.48872035526983
+2258,2020-02-26,NO,-90.21076850007088
+2259,2020-02-27,NO,-82.24803146544326
+2260,2020-02-28,NO,-79.69758961178182
+2261,2020-02-29,NO,-80.47099526488016
+2262,2020-03-01,NO,-91.86254088975836
+2263,2020-03-02,NO,-80.61512910544707
+2264,2020-03-03,NO,-83.02718433456158
+2265,2020-03-04,NO,-62.248453417719716
+2266,2020-03-05,NO,-86.96248995854494
+2267,2020-03-06,NO,-69.48235284796426
+2268,2020-03-07,NO,-68.92155309483532
+2269,2020-03-08,NO,-88.43009537731959
+2270,2020-03-09,NO,-88.05900663068698
+2271,2020-03-10,NO,-76.39733901317871
+2272,2020-03-11,NO,-74.51318005090562
+2273,2020-03-12,NO,-93.72348579972525
+2274,2020-03-13,NO,-88.96624262148832
+2275,2020-03-14,NO,-95.83838866049649
+2276,2020-03-15,NO,-95.83886210191037
+2277,2020-03-16,NO,-86.78345008651112
+2278,2020-03-17,NO,-80.31309825830493
+2279,2020-03-18,NO,-87.40930448022037
+2280,2020-03-19,NO,-88.5805733206692
+2281,2020-03-20,NO,-90.16094290233835
+2282,2020-03-21,NO,-93.81051217237292
+2283,2020-03-22,NO,-97.26325079080142
+2284,2020-03-23,NO,-96.89968900721054
+2285,2020-03-24,NO,-97.27129375640732
+2286,2020-03-25,NO,-97.31507511192714
+2287,2020-03-26,NO,-95.70968587640891
+2288,2020-03-27,NO,-96.18645167536825
+2289,2020-03-28,NO,-93.78966753421994
+2290,2020-03-29,NO,-96.00841148637232
+2291,2020-03-30,NO,-96.77065361548078
+2292,2020-03-31,NO,-97.26504373294692
+2293,2020-04-01,NO,-95.94191625439493
+2294,2020-04-02,NO,-93.39443794444213
+2295,2020-04-03,NO,-93.6126027338229
+2296,2020-04-04,NO,-95.59394566656455
+2297,2020-04-05,NO,-97.37529419903122
+2298,2020-04-06,NO,-93.67723089456118
+2299,2020-04-07,NO,-92.97272531469392
+2300,2020-04-08,NO,-94.89124958513872
+2301,2020-04-09,NO,-94.248187417353
+2302,2020-04-10,NO,-92.69791368691821
+2303,2020-04-11,NO,-94.68593216160207
+2304,2020-04-12,NO,-97.53778323725899
+2305,2020-04-13,NO,-96.98928726773862
+2306,2020-04-14,NO,-94.97240509950386
+2307,2020-04-15,NO,-96.95339664454006
+2308,2020-04-16,NO,-94.50982369318307
+2309,2020-04-17,NO,-93.89034429047825
+2310,2020-04-18,NO,-93.87304609138494
+2311,2020-04-19,NO,-97.73675740767402
+2312,2020-04-20,NO,-97.55235572082661
+2313,2020-04-21,NO,-97.0949933761664
+2314,2020-04-22,NO,-94.96298421446153
+2315,2020-04-23,NO,-93.83229431431815
+2316,2020-04-24,NO,-93.61772371486397
+2317,2020-04-25,NO,-96.87754987517079
+2318,2020-04-26,NO,-97.31736467665104
+2319,2020-04-27,NO,-95.37167160302815
+2320,2020-04-28,NO,-96.18205537870519
+2321,2020-04-29,NO,-93.13403111112184
+2322,2020-04-30,NO,-95.0490886100956
+2323,2020-05-01,NO,-97.12078401259733
+2324,2020-05-02,NO,-95.15192091785055
+2325,2020-05-03,NO,-97.04073119108372
+2326,2020-05-04,NO,-96.38906177659307
+2327,2020-05-05,NO,-94.15672917322168
+2328,2020-05-06,NO,-94.39328360680116
+2329,2020-05-07,NO,-96.91124777439133
+2330,2020-05-08,NO,-94.47754236520424
+2331,2020-05-09,NO,-96.16606702615726
+2332,2020-05-10,NO,-97.16231176791402
+2333,2020-05-11,NO,-95.97567534431462
+2334,2020-05-12,NO,-94.6656207656367
+2335,2020-05-13,NO,-94.00013375929052
+2336,2020-05-14,NO,-92.59783714163092
+2337,2020-05-15,NO,-95.35932856898114
+2338,2020-05-16,NO,-96.33951045582883
+2339,2020-05-17,NO,-96.64951883792841
+2340,2020-05-18,NO,-92.32361444853072
+2341,2020-05-19,NO,-94.70562209988479
+2342,2020-05-20,NO,-91.33232400601024
+2343,2020-05-21,NO,-96.19385181216427
+2344,2020-05-22,NO,-95.02949951188
+2345,2020-05-23,NO,-96.0795409129482
+2346,2020-05-24,NO,-96.2014462091807
+2347,2020-05-25,NO,-95.61801991921837
+2348,2020-05-26,NO,-95.79411911367248
+2349,2020-05-27,NO,-96.41436715011878
+2350,2020-05-28,NO,-95.32981980818764
+2351,2020-05-29,NO,-96.45519222753873
+2352,2020-05-30,NO,-94.99743451720758
+2353,2020-05-31,NO,-96.94890314345612
+2354,2020-06-01,NO,-94.96401972651418
+2355,2020-06-02,NO,-95.7956029459151
+2356,2020-06-03,NO,-93.51611699992374
+2357,2020-06-04,NO,-93.62867975945578
+2358,2020-06-05,NO,-90.51886685914235
+2359,2020-06-06,NO,-94.01653422960321
+2360,2020-06-07,NO,-95.23264191544746
+2361,2020-06-08,NO,-88.82362737226894
+2362,2020-06-09,NO,-89.55630993810828
+2363,2020-06-10,NO,-85.2156333200476
+2364,2020-06-11,NO,-89.74425324451643
+2365,2020-06-12,NO,-89.74580687131814
+2366,2020-06-13,NO,-90.25559922711734
+2367,2020-06-14,NO,-93.91892041984738
+2368,2020-06-15,NO,-88.14196936326645
+2369,2020-06-16,NO,-90.73967995895255
+2370,2020-06-17,NO,-80.56784040781592
+2371,2020-06-18,NO,-81.51308440690575
+2372,2020-06-19,NO,-85.97784958410439
+2373,2020-06-20,NO,-94.93740269519844
+2374,2020-06-21,NO,-95.45481085403036
+2375,2020-06-22,NO,-91.5486550319971
+2376,2020-06-23,NO,-92.0605751685705
+2377,2020-06-24,NO,-96.49711655911277
+2378,2020-06-25,NO,-96.38125815901985
+2379,2020-06-26,NO,-96.7849885890816
+2380,2020-06-27,NO,-94.53334361983059
+2381,2020-06-28,NO,-95.31802109331765
+2382,2020-06-29,NO,-93.79304022637827
+2383,2020-06-30,NO,-94.52489729518986
+2384,2020-07-01,NO,-94.33028612573497
+2385,2020-07-02,NO,-92.83981332843271
+2386,2020-07-03,NO,-93.40884900230685
+2387,2020-07-04,NO,-94.13964886412475
+2388,2020-07-05,NO,-96.48423400077814
+2389,2020-07-06,NO,-95.34863671249207
+2390,2020-07-07,NO,-95.84354376967713
+2391,2020-07-08,NO,-96.20163313526331
+2392,2020-07-09,NO,-96.0247573633398
+2393,2020-07-10,NO,-96.24183902343215
+2394,2020-07-11,NO,-95.75659351176199
+2395,2020-07-12,NO,-97.44586299594692
+2396,2020-07-13,NO,-96.61503803121924
+2397,2020-07-14,NO,-95.96428512926937
+2398,2020-07-15,NO,-94.81626468597582
+2399,2020-07-16,NO,-96.28307837834302
+2400,2020-07-17,NO,-96.4466651935358
+2401,2020-07-18,NO,-97.39787814374942
+2402,2020-07-19,NO,-96.55574878901587
+2403,2020-07-20,NO,-95.96056996219643
+2404,2020-07-21,NO,-95.99107587341496
+2405,2020-07-22,NO,-94.2861538821574
+2406,2020-07-23,NO,-94.68916013893418
+2407,2020-07-24,NO,-96.3209764222421
+2408,2020-07-25,NO,-94.15035669860632
+2409,2020-07-26,NO,-97.49164259637105
+2410,2020-07-27,NO,-96.50465109755179
+2411,2020-07-28,NO,-96.05408423704498
+2412,2020-07-29,NO,-95.52292413571817
+2413,2020-07-30,NO,-95.61836455271256
+2414,2020-07-31,NO,-95.42592727595445
+2415,2020-08-01,NO,-96.71824985415876
+2416,2020-08-02,NO,-97.63551402437216
+2417,2020-08-03,NO,-94.92898657849452
+2418,2020-08-04,NO,-93.75197071260453
+2419,2020-08-05,NO,-93.90301588869433
+2420,2020-08-06,NO,-96.22404701867761
+2421,2020-08-07,NO,-95.22446300477823
+2422,2020-08-08,NO,-96.54516859376415
+2423,2020-08-09,NO,-97.80179226848449
+2424,2020-08-10,NO,-97.11426423705349
+2425,2020-08-11,NO,-94.09581744065467
+2426,2020-08-12,NO,-96.82853055531699
+2427,2020-08-13,NO,-96.17367091655245
+2428,2020-08-14,NO,-95.76964918718488
+2429,2020-08-15,NO,-97.15309616843285
+2430,2020-08-16,NO,-97.3682619055523
+2431,2020-08-17,NO,-94.24694070680576
+2432,2020-08-18,NO,-91.55976526049191
+2433,2020-08-19,NO,-96.3135721250506
+2434,2020-08-20,NO,-96.48950919116137
+2435,2020-08-21,NO,-96.74880118287791
+2436,2020-08-22,NO,-97.22052801863667
+2437,2020-08-23,NO,-97.53911704692345
+2438,2020-08-24,NO,-96.25842464510394
+2439,2020-08-25,NO,-96.01764025975893
+2440,2020-08-26,NO,-94.82289548503505
+2441,2020-08-27,NO,-95.63881917502758
+2442,2020-08-28,NO,-95.28242264901861
+2443,2020-08-29,NO,-93.479984024606
+2444,2020-08-30,NO,-96.58580697605507
+2445,2020-08-31,NO,-91.83180443201698
+2446,2020-09-01,NO,-88.86577300673338
+2447,2020-09-02,NO,-95.24424205095718
+2448,2020-09-03,NO,-91.92506858782797
+2449,2020-09-04,NO,-92.88476760622359
+2450,2020-09-05,NO,-95.12702194389182
+2451,2020-09-06,NO,-96.61411028262754
+2452,2020-09-07,NO,-92.7889417869246
+2453,2020-09-08,NO,-85.50152032310218
+2454,2020-09-09,NO,-90.223917789342
+2455,2020-09-10,NO,-86.7290397850982
+2456,2020-09-11,NO,-87.64181207414927
+2457,2020-09-12,NO,-82.37952821442661
+2458,2020-09-13,NO,-93.49286127252138
+2459,2020-09-14,NO,-87.0662690114249
+2460,2020-09-15,NO,-91.43585610249666
+2461,2020-09-16,NO,-88.36267618236963
+2462,2020-09-17,NO,-87.0593203229879
+2463,2020-09-18,NO,-90.75606132263925
+2464,2020-09-19,NO,-95.8281610281832
+2465,2020-09-20,NO,-95.10000287848403
+2466,2020-09-21,NO,-93.31908920368312
+2467,2020-09-22,NO,-86.05119104335695
+2468,2020-09-23,NO,-86.34721618495448
+2469,2020-09-24,NO,-83.00564304949577
+2470,2020-09-25,NO,-92.09244265255927
+2471,2020-09-26,NO,-90.22171783961771
+2472,2020-09-27,NO,-91.51742969208469
+2473,2020-09-28,NO,-83.88697554073977
+2474,2020-09-29,NO,-77.63924630812674
+2475,2020-09-30,NO,-81.93508137632837
+2476,2020-10-01,NO,-84.06297230937616
+2477,2020-10-02,NO,-84.28531400021552
+2478,2020-10-03,NO,-92.19000013504194
+2479,2020-10-04,NO,-89.33254151896304
+2480,2020-10-05,NO,-81.52038812562367
+2481,2020-10-06,NO,-70.45337305071989
+2482,2020-10-07,NO,-72.31026884878155
+2483,2020-10-08,NO,-58.70543645568807
+2484,2020-10-09,NO,-59.15485327466652
+2485,2020-10-10,NO,-71.2916296410806
+2486,2020-10-11,NO,-89.50721689604339
+2487,2020-10-12,NO,-65.47105993524208
+2488,2020-10-13,NO,-64.19824352750459
+2489,2020-10-14,NO,-79.33050006543382
+2490,2020-10-15,NO,-76.51428438201047
+2491,2020-10-16,NO,-62.486040543762485
+2492,2020-10-17,NO,-62.86985747346711
+2493,2020-10-18,NO,-82.59016870887355
+2494,2020-10-19,NO,-77.81381455606436
+2495,2020-10-20,NO,-68.60959143688265
+2496,2020-10-21,NO,-64.13338037198398
+2497,2020-10-22,NO,-58.08348669519177
+2498,2020-10-23,NO,-59.16793822045369
+2499,2020-10-24,NO,-68.47378684732335
+2500,2020-10-25,NO,-79.54858476886389
+2501,2020-10-26,NO,-76.50494573962433
+2502,2020-10-27,NO,-71.23274524429036
+2503,2020-10-28,NO,-57.04495489621978
+2504,2020-10-29,NO,-38.701218017896004
+2505,2020-10-30,NO,-18.903870053683107
+2506,2020-10-31,NO,-51.835086084062105
+2507,2020-11-01,NO,-74.16191625476843
+2508,2020-11-02,NO,-55.59093690847895
+2509,2020-11-03,NO,-56.96897494739089
+2510,2020-11-04,NO,-70.65560272856456
+2511,2020-11-05,NO,-48.25499659939668
+2512,2020-11-06,NO,-55.770736182914874
+2513,2020-11-07,NO,-52.1980292003014
+2514,2020-11-08,NO,-74.27953119330968
+2515,2020-11-09,NO,-35.56421971361749
+2516,2020-11-10,NO,-18.08794555459359
+2517,2020-11-11,NO,-37.44491060768424
+2518,2020-11-12,NO,-83.36068429587664
+2519,2020-11-13,NO,-53.57994579400391
+2520,2020-11-14,NO,-57.68519184094844
+2521,2020-11-15,NO,-82.76128221057826
+2522,2020-11-16,NO,-52.42501508374028
+2523,2020-11-17,NO,-39.58831812073737
+2524,2020-11-18,NO,-13.016285670704525
+2525,2020-11-19,NO,-25.50553356628121
+2526,2020-11-20,NO,-27.35625615875172
+2527,2020-11-21,NO,-78.65665427102206
+2528,2020-11-22,NO,-78.55848437832043
+2529,2020-11-23,NO,-38.60574352945141
+2530,2020-11-24,NO,-29.131906525336802
+2531,2020-11-25,NO,13.646619455088663
+2532,2020-11-26,NO,17.962102643450773
+2533,2020-11-27,NO,13.577471175958248
+2534,2020-11-28,NO,-40.105666442457725
+2535,2020-11-29,NO,-82.08456375137824
+2536,2020-11-30,NO,-69.61254236094274
+2537,2020-12-01,NO,-69.89228386391358
+2538,2020-12-02,NO,-75.75270449118085
+2539,2020-12-03,NO,-63.790290222059376
+2540,2020-12-04,NO,-57.605033777357235
+2541,2020-12-05,NO,-62.04250383078744
+2542,2020-12-06,NO,-86.85325286568715
+2543,2020-12-07,NO,-85.67136445344018
+2544,2020-12-08,NO,-85.86575070768687
+2545,2020-12-09,NO,-63.765154487602864
+2546,2020-12-10,NO,-23.78201069516105
+2547,2020-12-11,NO,14.850234440445117
+2548,2020-12-12,NO,-38.486579644999495
+2549,2020-12-13,NO,-40.70419423123306
+2550,2020-12-14,NO,29.620842280952616
+2551,2020-12-15,NO,8.170638332504803
+2552,2020-12-16,NO,-34.17858468903906
+2553,2020-12-17,NO,-17.975458513217806
+2554,2020-12-18,NO,20.614256802401115
+2555,2020-12-19,NO,-19.13620228992059
+2556,2020-12-20,NO,-65.27588546643884
+2557,2020-12-21,NO,-23.13227563760212
+2558,2020-12-22,NO,47.2243305025865
+2559,2020-12-23,NO,-5.295270892863982
+2560,2020-12-24,NO,-69.24659600609205
+2561,2020-12-25,NO,-90.75709279325531
+2562,2020-12-26,NO,-82.33857010093655
+2563,2020-12-27,NO,-82.32285202797586
+2564,2020-12-28,NO,-76.28570891258632
+2565,2020-12-29,NO,-15.010408600147837
+2566,2020-12-30,NO,-25.294929809022236
+2567,2020-12-31,NO,-46.232967573265434
+2568,2020-02-15,NO2,4.247225112009432
+2569,2020-02-16,NO2,-2.4883471616086146
+2570,2020-02-17,NO2,-3.8585622658475094
+2571,2020-02-18,NO2,-1.108056503667646
+2572,2020-02-19,NO2,-12.932707215118981
+2573,2020-02-20,NO2,0.5704913936445707
+2574,2020-02-21,NO2,15.143500089518746
+2575,2020-02-22,NO2,2.6793291232179954
+2576,2020-02-23,NO2,-4.66357842731842
+2577,2020-02-24,NO2,-14.460378185033269
+2578,2020-02-25,NO2,-25.317870122324685
+2579,2020-02-26,NO2,-68.03756058028937
+2580,2020-02-27,NO2,-42.53628558804178
+2581,2020-02-28,NO2,-26.529015096125942
+2582,2020-02-29,NO2,-20.630868876835443
+2583,2020-03-01,NO2,-40.48829748324995
+2584,2020-03-02,NO2,-29.92648829532147
+2585,2020-03-03,NO2,-53.059751097942765
+2586,2020-03-04,NO2,-19.447688249709568
+2587,2020-03-05,NO2,-34.23730398556093
+2588,2020-03-06,NO2,-30.012146093590268
+2589,2020-03-07,NO2,-30.859085792287765
+2590,2020-03-08,NO2,-38.215615347661235
+2591,2020-03-09,NO2,-25.818476938807574
+2592,2020-03-10,NO2,-23.155251240815915
+2593,2020-03-11,NO2,-23.218735010304613
+2594,2020-03-12,NO2,-53.2660457476702
+2595,2020-03-13,NO2,-53.45958060035793
+2596,2020-03-14,NO2,-66.56311003610267
+2597,2020-03-15,NO2,-69.42166904145358
+2598,2020-03-16,NO2,-41.557178082167454
+2599,2020-03-17,NO2,-34.05046639857688
+2600,2020-03-18,NO2,-36.023792858340876
+2601,2020-03-19,NO2,-34.84501830448601
+2602,2020-03-20,NO2,-35.171432678107486
+2603,2020-03-21,NO2,-55.671583238905704
+2604,2020-03-22,NO2,-79.20587232212954
+2605,2020-03-23,NO2,-79.77277937732862
+2606,2020-03-24,NO2,-71.3276432940678
+2607,2020-03-25,NO2,-70.7035373591197
+2608,2020-03-26,NO2,-65.92160899169009
+2609,2020-03-27,NO2,-62.33016004803737
+2610,2020-03-28,NO2,-53.740040264500394
+2611,2020-03-29,NO2,-66.49048075681449
+2612,2020-03-30,NO2,-72.01246965681634
+2613,2020-03-31,NO2,-78.48028237431204
+2614,2020-04-01,NO2,-60.59202023346037
+2615,2020-04-02,NO2,-56.128856542420536
+2616,2020-04-03,NO2,-49.710194563649885
+2617,2020-04-04,NO2,-53.9544163701825
+2618,2020-04-05,NO2,-66.54446567515626
+2619,2020-04-06,NO2,-55.43898526617936
+2620,2020-04-07,NO2,-53.252842145118954
+2621,2020-04-08,NO2,-53.88029346424316
+2622,2020-04-09,NO2,-48.29000358153212
+2623,2020-04-10,NO2,-46.30775922971379
+2624,2020-04-11,NO2,-58.408430589075245
+2625,2020-04-12,NO2,-75.2075247453692
+2626,2020-04-13,NO2,-80.92054513686449
+2627,2020-04-14,NO2,-70.92083628400749
+2628,2020-04-15,NO2,-79.0211120679447
+2629,2020-04-16,NO2,-57.32583526680273
+2630,2020-04-17,NO2,-57.636964566148706
+2631,2020-04-18,NO2,-65.34381955441594
+2632,2020-04-19,NO2,-76.62841841138187
+2633,2020-04-20,NO2,-76.59246430434911
+2634,2020-04-21,NO2,-76.98641021607342
+2635,2020-04-22,NO2,-65.4964007856518
+2636,2020-04-23,NO2,-59.697967140730654
+2637,2020-04-24,NO2,-55.10342177256885
+2638,2020-04-25,NO2,-74.87582398815583
+2639,2020-04-26,NO2,-82.03479351248536
+2640,2020-04-27,NO2,-73.65273874044958
+2641,2020-04-28,NO2,-73.42028128500483
+2642,2020-04-29,NO2,-66.41966239073307
+2643,2020-04-30,NO2,-69.36423340393267
+2644,2020-05-01,NO2,-82.11602608643275
+2645,2020-05-02,NO2,-82.38252668801455
+2646,2020-05-03,NO2,-79.09320692357657
+2647,2020-05-04,NO2,-66.54329905695015
+2648,2020-05-05,NO2,-60.44045660112339
+2649,2020-05-06,NO2,-69.90951549744125
+2650,2020-05-07,NO2,-68.30605474886158
+2651,2020-05-08,NO2,-50.12597410314228
+2652,2020-05-09,NO2,-67.58739262805746
+2653,2020-05-10,NO2,-79.58773938786206
+2654,2020-05-11,NO2,-69.7279959744883
+2655,2020-05-12,NO2,-71.33688617178741
+2656,2020-05-13,NO2,-61.88788585567455
+2657,2020-05-14,NO2,-66.51667335113872
+2658,2020-05-15,NO2,-70.84965736774751
+2659,2020-05-16,NO2,-76.51106844283973
+2660,2020-05-17,NO2,-81.33281660006676
+2661,2020-05-18,NO2,-62.78570877774487
+2662,2020-05-19,NO2,-64.02730787946616
+2663,2020-05-20,NO2,-57.29660918739813
+2664,2020-05-21,NO2,-61.19091781931933
+2665,2020-05-22,NO2,-55.50257550638236
+2666,2020-05-23,NO2,-63.94440160966933
+2667,2020-05-24,NO2,-75.09253877573897
+2668,2020-05-25,NO2,-61.60926387618187
+2669,2020-05-26,NO2,-65.79344984389417
+2670,2020-05-27,NO2,-64.52870742211012
+2671,2020-05-28,NO2,-57.69279556721832
+2672,2020-05-29,NO2,-64.05131650756292
+2673,2020-05-30,NO2,-61.912039714449705
+2674,2020-05-31,NO2,-72.40587440532444
+2675,2020-06-01,NO2,-58.71813180140714
+2676,2020-06-02,NO2,-69.60098836518398
+2677,2020-06-03,NO2,-62.12361427703564
+2678,2020-06-04,NO2,-67.54423494649987
+2679,2020-06-05,NO2,-67.03068312369132
+2680,2020-06-06,NO2,-68.54802513987377
+2681,2020-06-07,NO2,-80.13827723667892
+2682,2020-06-08,NO2,-64.50558627403285
+2683,2020-06-09,NO2,-61.037004633356645
+2684,2020-06-10,NO2,-58.11436911434184
+2685,2020-06-11,NO2,-61.051117931288964
+2686,2020-06-12,NO2,-58.15120931429802
+2687,2020-06-13,NO2,-58.38290462814726
+2688,2020-06-14,NO2,-74.50740323280293
+2689,2020-06-15,NO2,-69.958987597382
+2690,2020-06-16,NO2,-63.0467794423241
+2691,2020-06-17,NO2,-52.619509770192195
+2692,2020-06-18,NO2,-59.194919008289524
+2693,2020-06-19,NO2,-62.88883724553629
+2694,2020-06-20,NO2,-68.63625753380529
+2695,2020-06-21,NO2,-65.49535899766227
+2696,2020-06-22,NO2,-51.867474802107274
+2697,2020-06-23,NO2,-46.20546454360377
+2698,2020-06-24,NO2,-62.76567643207901
+2699,2020-06-25,NO2,-65.33424288398885
+2700,2020-06-26,NO2,-63.69153355426424
+2701,2020-06-27,NO2,-61.39536274962304
+2702,2020-06-28,NO2,-69.68894841743057
+2703,2020-06-29,NO2,-64.13781230431982
+2704,2020-06-30,NO2,-65.5940711563194
+2705,2020-07-01,NO2,-62.25841402588837
+2706,2020-07-02,NO2,-60.37729886422137
+2707,2020-07-03,NO2,-61.47210727835463
+2708,2020-07-04,NO2,-67.70781033756336
+2709,2020-07-05,NO2,-71.71351423292967
+2710,2020-07-06,NO2,-65.31991677151916
+2711,2020-07-07,NO2,-71.80409228312364
+2712,2020-07-08,NO2,-69.65004980380473
+2713,2020-07-09,NO2,-58.94878992198517
+2714,2020-07-10,NO2,-61.40967124451085
+2715,2020-07-11,NO2,-68.46207908519071
+2716,2020-07-12,NO2,-81.92716876779443
+2717,2020-07-13,NO2,-69.40757182463541
+2718,2020-07-14,NO2,-67.17972314229385
+2719,2020-07-15,NO2,-56.903060938916596
+2720,2020-07-16,NO2,-62.68491974929761
+2721,2020-07-17,NO2,-66.54597191148751
+2722,2020-07-18,NO2,-78.20610033723435
+2723,2020-07-19,NO2,-73.30410102147219
+2724,2020-07-20,NO2,-72.36389325146513
+2725,2020-07-21,NO2,-64.24950001638543
+2726,2020-07-22,NO2,-58.404916864330524
+2727,2020-07-23,NO2,-57.64634657018287
+2728,2020-07-24,NO2,-64.8489216210254
+2729,2020-07-25,NO2,-62.054475463517186
+2730,2020-07-26,NO2,-76.49820095424546
+2731,2020-07-27,NO2,-65.65988063762967
+2732,2020-07-28,NO2,-53.922868613018096
+2733,2020-07-29,NO2,-55.28792424427662
+2734,2020-07-30,NO2,-56.86639349945851
+2735,2020-07-31,NO2,-47.02100568336276
+2736,2020-08-01,NO2,-58.74151488702712
+2737,2020-08-02,NO2,-77.5036373688384
+2738,2020-08-03,NO2,-61.65274245170508
+2739,2020-08-04,NO2,-68.37120478451976
+2740,2020-08-05,NO2,-61.61441060090973
+2741,2020-08-06,NO2,-61.229420456940915
+2742,2020-08-07,NO2,-59.971818693561914
+2743,2020-08-08,NO2,-66.98914236594322
+2744,2020-08-09,NO2,-69.57896161713046
+2745,2020-08-10,NO2,-65.75657060562855
+2746,2020-08-11,NO2,-61.939183940218435
+2747,2020-08-12,NO2,-66.74249880837209
+2748,2020-08-13,NO2,-72.55289510895875
+2749,2020-08-14,NO2,-71.22436412662906
+2750,2020-08-15,NO2,-76.34414334560908
+2751,2020-08-16,NO2,-77.62773531171929
+2752,2020-08-17,NO2,-67.39019712291756
+2753,2020-08-18,NO2,-66.72250890443824
+2754,2020-08-19,NO2,-72.50927342408185
+2755,2020-08-20,NO2,-67.17241231180515
+2756,2020-08-21,NO2,-65.10112178361169
+2757,2020-08-22,NO2,-73.26859227832
+2758,2020-08-23,NO2,-78.10891674884999
+2759,2020-08-24,NO2,-70.99916431414385
+2760,2020-08-25,NO2,-64.81711034051644
+2761,2020-08-26,NO2,-61.80964982802273
+2762,2020-08-27,NO2,-63.107005416343185
+2763,2020-08-28,NO2,-59.50248467392203
+2764,2020-08-29,NO2,-68.98749751870216
+2765,2020-08-30,NO2,-83.28553820296638
+2766,2020-08-31,NO2,-65.34915476708773
+2767,2020-09-01,NO2,-61.77493604963232
+2768,2020-09-02,NO2,-65.06885338677415
+2769,2020-09-03,NO2,-54.89096107924948
+2770,2020-09-04,NO2,-50.29261103351453
+2771,2020-09-05,NO2,-49.913389503074725
+2772,2020-09-06,NO2,-68.21108089826141
+2773,2020-09-07,NO2,-58.703718454885816
+2774,2020-09-08,NO2,-51.6463384522307
+2775,2020-09-09,NO2,-39.089458895710884
+2776,2020-09-10,NO2,-43.29522587082655
+2777,2020-09-11,NO2,-32.86797247074398
+2778,2020-09-12,NO2,-41.29292110717566
+2779,2020-09-13,NO2,-51.78602441094623
+2780,2020-09-14,NO2,-46.97629742656061
+2781,2020-09-15,NO2,-46.57786916435878
+2782,2020-09-16,NO2,-32.014649882019796
+2783,2020-09-17,NO2,-37.209860145819505
+2784,2020-09-18,NO2,-42.952542343122786
+2785,2020-09-19,NO2,-57.27324986113381
+2786,2020-09-20,NO2,-64.0975031863775
+2787,2020-09-21,NO2,-55.461141354990126
+2788,2020-09-22,NO2,-50.9528733806547
+2789,2020-09-23,NO2,-47.31732323695039
+2790,2020-09-24,NO2,-51.93392219425968
+2791,2020-09-25,NO2,-70.08021660541873
+2792,2020-09-26,NO2,-70.33295543782694
+2793,2020-09-27,NO2,-65.82304520624872
+2794,2020-09-28,NO2,-45.94116337391793
+2795,2020-09-29,NO2,-31.107977705286423
+2796,2020-09-30,NO2,-36.120892885061394
+2797,2020-10-01,NO2,-41.72291592837781
+2798,2020-10-02,NO2,-50.96018549553873
+2799,2020-10-03,NO2,-71.27014799445894
+2800,2020-10-04,NO2,-69.14659149647989
+2801,2020-10-05,NO2,-50.01224630559894
+2802,2020-10-06,NO2,-48.31748530136413
+2803,2020-10-07,NO2,-37.7644413517918
+2804,2020-10-08,NO2,-32.1521748395152
+2805,2020-10-09,NO2,-28.12055033347086
+2806,2020-10-10,NO2,-44.22093736175155
+2807,2020-10-11,NO2,-64.67347312922209
+2808,2020-10-12,NO2,-43.06664592544891
+2809,2020-10-13,NO2,-37.24385576773123
+2810,2020-10-14,NO2,-36.186087427289564
+2811,2020-10-15,NO2,-32.79615042463077
+2812,2020-10-16,NO2,-38.01681442908953
+2813,2020-10-17,NO2,-44.44072954578991
+2814,2020-10-18,NO2,-48.13536546032715
+2815,2020-10-19,NO2,-38.703812396351864
+2816,2020-10-20,NO2,-37.256770025525
+2817,2020-10-21,NO2,-36.11894885405863
+2818,2020-10-22,NO2,-41.68168638102332
+2819,2020-10-23,NO2,-44.90063350876552
+2820,2020-10-24,NO2,-47.91035668876424
+2821,2020-10-25,NO2,-58.12696145503482
+2822,2020-10-26,NO2,-50.571685467688376
+2823,2020-10-27,NO2,-44.46273340879267
+2824,2020-10-28,NO2,-34.7428962629304
+2825,2020-10-29,NO2,-24.118698709728346
+2826,2020-10-30,NO2,-21.58528374152818
+2827,2020-10-31,NO2,-35.093676106036526
+2828,2020-11-01,NO2,-50.180177643815426
+2829,2020-11-02,NO2,-39.85053387120405
+2830,2020-11-03,NO2,-44.02593074286008
+2831,2020-11-04,NO2,-44.71015500565576
+2832,2020-11-05,NO2,-40.20947842914643
+2833,2020-11-06,NO2,-36.85946115412385
+2834,2020-11-07,NO2,-45.63341275997768
+2835,2020-11-08,NO2,-54.32281419625471
+2836,2020-11-09,NO2,-34.03210593044911
+2837,2020-11-10,NO2,-23.441727614721557
+2838,2020-11-11,NO2,-33.9751294855356
+2839,2020-11-12,NO2,-49.06302352231895
+2840,2020-11-13,NO2,-37.705890799458224
+2841,2020-11-14,NO2,-44.408222749294566
+2842,2020-11-15,NO2,-53.83035130524757
+2843,2020-11-16,NO2,-36.49740347892703
+2844,2020-11-17,NO2,-26.743186478029685
+2845,2020-11-18,NO2,-21.493522406400114
+2846,2020-11-19,NO2,-18.33155744789819
+2847,2020-11-20,NO2,-16.328718514641483
+2848,2020-11-21,NO2,-36.48316977863355
+2849,2020-11-22,NO2,-42.34142059482094
+2850,2020-11-23,NO2,-12.43573151844812
+2851,2020-11-24,NO2,-9.740663844403436
+2852,2020-11-25,NO2,3.57724575217276
+2853,2020-11-26,NO2,2.1692161847646094
+2854,2020-11-27,NO2,3.335389193640668
+2855,2020-11-28,NO2,-13.281103169653516
+2856,2020-11-29,NO2,-38.369303869349025
+2857,2020-11-30,NO2,-34.50352580364584
+2858,2020-12-01,NO2,-30.2141990085441
+2859,2020-12-02,NO2,-41.39954929010729
+2860,2020-12-03,NO2,-41.07658557606638
+2861,2020-12-04,NO2,-36.52569566962892
+2862,2020-12-05,NO2,-45.518568237088516
+2863,2020-12-06,NO2,-51.8030717550875
+2864,2020-12-07,NO2,-46.840333300517976
+2865,2020-12-08,NO2,-53.48277198595943
+2866,2020-12-09,NO2,-36.531401796682204
+2867,2020-12-10,NO2,-29.538017504384733
+2868,2020-12-11,NO2,-25.99050206412925
+2869,2020-12-12,NO2,-37.57533026002952
+2870,2020-12-13,NO2,-38.53106051463571
+2871,2020-12-14,NO2,-14.962644383721413
+2872,2020-12-15,NO2,-10.857266472023046
+2873,2020-12-16,NO2,-26.029206069032675
+2874,2020-12-17,NO2,-30.906993289774597
+2875,2020-12-18,NO2,-19.363780350095514
+2876,2020-12-19,NO2,-27.376553012970767
+2877,2020-12-20,NO2,-44.40051622121667
+2878,2020-12-21,NO2,-43.33113254999012
+2879,2020-12-22,NO2,-26.30335542318848
+2880,2020-12-23,NO2,-29.260372111110623
+2881,2020-12-24,NO2,-42.76621708205722
+2882,2020-12-25,NO2,-64.08450701361926
+2883,2020-12-26,NO2,-53.424439704691
+2884,2020-12-27,NO2,-40.97468345475334
+2885,2020-12-28,NO2,-34.05035414054031
+2886,2020-12-29,NO2,-14.862006124626639
+2887,2020-12-30,NO2,-16.543685873441657
+2888,2020-12-31,NO2,-22.52664660501657
+2889,2020-02-15,PM10,-15.173067910348403
+2890,2020-02-16,PM10,18.055952461581843
+2891,2020-02-17,PM10,34.42239917568782
+2892,2020-02-18,PM10,8.595928123111127
+2893,2020-02-19,PM10,-38.95783498463455
+2894,2020-02-20,PM10,-50.02755124811045
+2895,2020-02-21,PM10,-19.13565345525545
+2896,2020-02-22,PM10,14.094526167054303
+2897,2020-02-23,PM10,26.16748263127078
+2898,2020-02-24,PM10,-14.533730130255174
+2899,2020-02-25,PM10,19.668272533112784
+2900,2020-02-26,PM10,-78.19785703616556
+2901,2020-02-27,PM10,-77.90167529163388
+2902,2020-02-28,PM10,-68.71781321087194
+2903,2020-02-29,PM10,-46.733052935229566
+2904,2020-03-01,PM10,-40.100394836414594
+2905,2020-03-02,PM10,-49.51234664472082
+2906,2020-03-03,PM10,-78.12298354540012
+2907,2020-03-04,PM10,-73.40273959072876
+2908,2020-03-05,PM10,-55.31699270655952
+2909,2020-03-06,PM10,-48.20820565647577
+2910,2020-03-07,PM10,-63.86449740488966
+2911,2020-03-08,PM10,-73.21969882463682
+2912,2020-03-09,PM10,-48.05293743329653
+2913,2020-03-10,PM10,-52.997190861804214
+2914,2020-03-11,PM10,-44.40630644984537
+2915,2020-03-12,PM10,-61.96265349082165
+2916,2020-03-13,PM10,-66.40981507302031
+2917,2020-03-14,PM10,-70.12717982500237
+2918,2020-03-15,PM10,-70.40268565866725
+2919,2020-03-16,PM10,-55.30391981106801
+2920,2020-03-17,PM10,-46.97628033397526
+2921,2020-03-18,PM10,-37.67769086625681
+2922,2020-03-19,PM10,-39.50546557429842
+2923,2020-03-20,PM10,-41.72164494918042
+2924,2020-03-21,PM10,-54.609365803789856
+2925,2020-03-22,PM10,-46.711601618408984
+2926,2020-03-23,PM10,-74.27975364965349
+2927,2020-03-24,PM10,-71.28834514480128
+2928,2020-03-25,PM10,-69.84021363803305
+2929,2020-03-26,PM10,-72.62328968359225
+2930,2020-03-27,PM10,-74.30259443846543
+2931,2020-03-28,PM10,-39.24815553363618
+2932,2020-03-29,PM10,-19.53337201097754
+2933,2020-03-30,PM10,-69.05503162876367
+2934,2020-03-31,PM10,-87.45378007823777
+2935,2020-04-01,PM10,-74.38974154703072
+2936,2020-04-02,PM10,-60.03805468243678
+2937,2020-04-03,PM10,-49.14817935684275
+2938,2020-04-04,PM10,-54.87335572975829
+2939,2020-04-05,PM10,-59.305820165129525
+2940,2020-04-06,PM10,-59.705001666034015
+2941,2020-04-07,PM10,-68.75230229720682
+2942,2020-04-08,PM10,-67.40974931732235
+2943,2020-04-09,PM10,-63.075294319766265
+2944,2020-04-10,PM10,-69.32049624504688
+2945,2020-04-11,PM10,-74.18607323126456
+2946,2020-04-12,PM10,-79.21488436461925
+2947,2020-04-13,PM10,-77.69171298032211
+2948,2020-04-14,PM10,-61.839980243719936
+2949,2020-04-15,PM10,-76.95716141568042
+2950,2020-04-16,PM10,-61.08493477065198
+2951,2020-04-17,PM10,-70.99286557694299
+2952,2020-04-18,PM10,-68.45958752161819
+2953,2020-04-19,PM10,-65.43218383587485
+2954,2020-04-20,PM10,-78.13941039428146
+2955,2020-04-21,PM10,-84.2756098008062
+2956,2020-04-22,PM10,-76.7194706564824
+2957,2020-04-23,PM10,-68.20110431200294
+2958,2020-04-24,PM10,-69.01081512406658
+2959,2020-04-25,PM10,-73.75351874557424
+2960,2020-04-26,PM10,-76.54616181797317
+2961,2020-04-27,PM10,-76.94485921381558
+2962,2020-04-28,PM10,-89.37799573876302
+2963,2020-04-29,PM10,-86.3040286679369
+2964,2020-04-30,PM10,-78.05773363576643
+2965,2020-05-01,PM10,-82.81287709819347
+2966,2020-05-02,PM10,-85.235715276365
+2967,2020-05-03,PM10,-89.28069833789007
+2968,2020-05-04,PM10,-79.44575907073325
+2969,2020-05-05,PM10,-74.08820836365425
+2970,2020-05-06,PM10,-71.64493647562784
+2971,2020-05-07,PM10,-74.46595107099382
+2972,2020-05-08,PM10,-64.22168581969812
+2973,2020-05-09,PM10,-76.09783037815504
+2974,2020-05-10,PM10,-81.66583619660692
+2975,2020-05-11,PM10,-90.76844200803346
+2976,2020-05-12,PM10,-84.31218824716527
+2977,2020-05-13,PM10,-82.52821639011172
+2978,2020-05-14,PM10,-80.94058347162716
+2979,2020-05-15,PM10,-83.98106190770015
+2980,2020-05-16,PM10,-82.97728989845436
+2981,2020-05-17,PM10,-86.19688946125333
+2982,2020-05-18,PM10,-71.74502127245542
+2983,2020-05-19,PM10,-75.15770350912055
+2984,2020-05-20,PM10,-75.28020721743638
+2985,2020-05-21,PM10,-67.72303795522393
+2986,2020-05-22,PM10,-58.76831407919449
+2987,2020-05-23,PM10,-63.6027827578815
+2988,2020-05-24,PM10,-84.3998027428733
+2989,2020-05-25,PM10,-79.47521265776957
+2990,2020-05-26,PM10,-74.54396361568085
+2991,2020-05-27,PM10,-75.94104048866906
+2992,2020-05-28,PM10,-70.2479540393422
+2993,2020-05-29,PM10,-76.42943411230758
+2994,2020-05-30,PM10,-75.66679335911087
+2995,2020-05-31,PM10,-73.95855428226315
+2996,2020-06-01,PM10,-67.17248197794487
+2997,2020-06-02,PM10,-72.0804620189378
+2998,2020-06-03,PM10,-75.1725262828004
+2999,2020-06-04,PM10,-83.15359582151395
+3000,2020-06-05,PM10,-84.56633748885787
+3001,2020-06-06,PM10,-77.35957893601274
+3002,2020-06-07,PM10,-85.15595885237305
+3003,2020-06-08,PM10,-83.21602706866611
+3004,2020-06-09,PM10,-91.34641210525479
+3005,2020-06-10,PM10,-82.48917169347395
+3006,2020-06-11,PM10,-80.21222493820717
+3007,2020-06-12,PM10,-81.33908201692377
+3008,2020-06-13,PM10,-82.2030856508577
+3009,2020-06-14,PM10,-85.93090386753506
+3010,2020-06-15,PM10,-85.222905836863
+3011,2020-06-16,PM10,-82.09988507251826
+3012,2020-06-17,PM10,-85.38201837836117
+3013,2020-06-18,PM10,-81.78119480262919
+3014,2020-06-19,PM10,-81.80466378175409
+3015,2020-06-20,PM10,-79.97583329300802
+3016,2020-06-21,PM10,-82.73683738133386
+3017,2020-06-22,PM10,-73.64543958525016
+3018,2020-06-23,PM10,-73.35850204108445
+3019,2020-06-24,PM10,-65.74422291287253
+3020,2020-06-25,PM10,-63.527087284689316
+3021,2020-06-26,PM10,-66.99771281912554
+3022,2020-06-27,PM10,-71.08829127264143
+3023,2020-06-28,PM10,-72.43050887687885
+3024,2020-06-29,PM10,-67.47016007150802
+3025,2020-06-30,PM10,-63.67852449666638
+3026,2020-07-01,PM10,-68.1631662000448
+3027,2020-07-02,PM10,-77.45016044451009
+3028,2020-07-03,PM10,-83.2339290586654
+3029,2020-07-04,PM10,-87.30971585274682
+3030,2020-07-05,PM10,-84.50601650499593
+3031,2020-07-06,PM10,-82.58192600129813
+3032,2020-07-07,PM10,-75.13458652030197
+3033,2020-07-08,PM10,-70.11564525147502
+3034,2020-07-09,PM10,-64.45375216978343
+3035,2020-07-10,PM10,-61.66718055454821
+3036,2020-07-11,PM10,-70.03586131998016
+3037,2020-07-12,PM10,-86.3893576386618
+3038,2020-07-13,PM10,-79.74057548963088
+3039,2020-07-14,PM10,-75.73716875133614
+3040,2020-07-15,PM10,-66.8167108006083
+3041,2020-07-16,PM10,-68.9551997428525
+3042,2020-07-17,PM10,-70.683425063594
+3043,2020-07-18,PM10,-85.30137591481818
+3044,2020-07-19,PM10,-80.86798592286523
+3045,2020-07-20,PM10,-72.70806159465675
+3046,2020-07-21,PM10,-67.82735933098044
+3047,2020-07-22,PM10,-70.2647077010469
+3048,2020-07-23,PM10,-76.43940832564408
+3049,2020-07-24,PM10,-78.37951829321796
+3050,2020-07-25,PM10,-81.8002286552975
+3051,2020-07-26,PM10,-79.3731379052603
+3052,2020-07-27,PM10,-69.4915685068934
+3053,2020-07-28,PM10,-64.01228671112945
+3054,2020-07-29,PM10,-60.652049587399674
+3055,2020-07-30,PM10,-57.19563462920768
+3056,2020-07-31,PM10,-58.23738872123612
+3057,2020-08-01,PM10,-61.2895603326
+3058,2020-08-02,PM10,-77.61274527115552
+3059,2020-08-03,PM10,-81.20338021922116
+3060,2020-08-04,PM10,-86.52222264638279
+3061,2020-08-05,PM10,-85.44821579188675
+3062,2020-08-06,PM10,-80.06822619792737
+3063,2020-08-07,PM10,-71.38702725183845
+3064,2020-08-08,PM10,-71.49053995248093
+3065,2020-08-09,PM10,-69.77594152270674
+3066,2020-08-10,PM10,-66.45320506502405
+3067,2020-08-11,PM10,-69.98129383298854
+3068,2020-08-12,PM10,-65.52223147304922
+3069,2020-08-13,PM10,-73.95653774209924
+3070,2020-08-14,PM10,-79.25105626510691
+3071,2020-08-15,PM10,-76.12693844395857
+3072,2020-08-16,PM10,-81.09454280719278
+3073,2020-08-17,PM10,-78.62134034767791
+3074,2020-08-18,PM10,-77.49116467460189
+3075,2020-08-19,PM10,-78.4957364668069
+3076,2020-08-20,PM10,-69.11475856665955
+3077,2020-08-21,PM10,-67.40292349958833
+3078,2020-08-22,PM10,-69.8237157444363
+3079,2020-08-23,PM10,-78.13896525836833
+3080,2020-08-24,PM10,-83.11920167170886
+3081,2020-08-25,PM10,-73.83174081486926
+3082,2020-08-26,PM10,-66.60178633827088
+3083,2020-08-27,PM10,-65.23566168916705
+3084,2020-08-28,PM10,-70.56612049210203
+3085,2020-08-29,PM10,-78.684383845239
+3086,2020-08-30,PM10,-88.65944097707488
+3087,2020-08-31,PM10,-82.49615528212232
+3088,2020-09-01,PM10,-80.04935070931779
+3089,2020-09-02,PM10,-80.51031202716638
+3090,2020-09-03,PM10,-72.7539434223446
+3091,2020-09-04,PM10,-69.89961113367274
+3092,2020-09-05,PM10,-67.05623998628441
+3093,2020-09-06,PM10,-73.68511574903144
+3094,2020-09-07,PM10,-85.35480630500706
+3095,2020-09-08,PM10,-76.55279869895928
+3096,2020-09-09,PM10,-62.89838313342902
+3097,2020-09-10,PM10,-60.25270968199439
+3098,2020-09-11,PM10,-68.08582197299913
+3099,2020-09-12,PM10,-67.771391438954
+3100,2020-09-13,PM10,-67.2420750039119
+3101,2020-09-14,PM10,-62.14388810263941
+3102,2020-09-15,PM10,-53.345709384552016
+3103,2020-09-16,PM10,-49.64132821288402
+3104,2020-09-17,PM10,-58.967297911566504
+3105,2020-09-18,PM10,-49.829278406905914
+3106,2020-09-19,PM10,-52.34036373174382
+3107,2020-09-20,PM10,-53.44394906092616
+3108,2020-09-21,PM10,-71.1863830649322
+3109,2020-09-22,PM10,-67.22961042414111
+3110,2020-09-23,PM10,-74.24229339583555
+3111,2020-09-24,PM10,-69.8173728492211
+3112,2020-09-25,PM10,-80.64663279146374
+3113,2020-09-26,PM10,-88.40106765023364
+3114,2020-09-27,PM10,-86.03684676029563
+3115,2020-09-28,PM10,-75.93076763249132
+3116,2020-09-29,PM10,-67.3239547061658
+3117,2020-09-30,PM10,-64.59796739878067
+3118,2020-10-01,PM10,-58.4561808188637
+3119,2020-10-02,PM10,-69.37113358638722
+3120,2020-10-03,PM10,-85.90141655017146
+3121,2020-10-04,PM10,-83.16477348010193
+3122,2020-10-05,PM10,-81.41319008815515
+3123,2020-10-06,PM10,-72.7559989998884
+3124,2020-10-07,PM10,-72.65723652608867
+3125,2020-10-08,PM10,-69.86108446205326
+3126,2020-10-09,PM10,-58.1688155026435
+3127,2020-10-10,PM10,-55.70696943278904
+3128,2020-10-11,PM10,-82.4547799355706
+3129,2020-10-12,PM10,-80.37021806441581
+3130,2020-10-13,PM10,-69.43468990375459
+3131,2020-10-14,PM10,-68.13600872604766
+3132,2020-10-15,PM10,-75.39691555326354
+3133,2020-10-16,PM10,-67.76945815899381
+3134,2020-10-17,PM10,-58.77376744504742
+3135,2020-10-18,PM10,-58.706929070865975
+3136,2020-10-19,PM10,-42.66588573656259
+3137,2020-10-20,PM10,-28.02187239101947
+3138,2020-10-21,PM10,-13.6218850188779
+3139,2020-10-22,PM10,-7.754836696368182
+3140,2020-10-23,PM10,-36.23061635216506
+3141,2020-10-24,PM10,-57.640003794828274
+3142,2020-10-25,PM10,-49.94718733294741
+3143,2020-10-26,PM10,-62.65633313121
+3144,2020-10-27,PM10,-74.67594937451614
+3145,2020-10-28,PM10,-65.76252409055492
+3146,2020-10-29,PM10,-39.96411519009122
+3147,2020-10-30,PM10,-13.456876848312893
+3148,2020-10-31,PM10,-15.850516334546247
+3149,2020-11-01,PM10,-32.66419124763123
+3150,2020-11-02,PM10,-26.927559823874468
+3151,2020-11-03,PM10,-19.42382913383639
+3152,2020-11-04,PM10,-39.38556568080268
+3153,2020-11-05,PM10,-30.542181189412226
+3154,2020-11-06,PM10,-9.784575800300114
+3155,2020-11-07,PM10,-27.76117030340662
+3156,2020-11-08,PM10,-41.73534075042702
+3157,2020-11-09,PM10,-36.46130880580135
+3158,2020-11-10,PM10,-16.858728492063307
+3159,2020-11-11,PM10,-10.565564312850942
+3160,2020-11-12,PM10,1.4647505784577288
+3161,2020-11-13,PM10,1.7423169531352773
+3162,2020-11-14,PM10,-17.241783955089012
+3163,2020-11-15,PM10,7.690401237305123
+3164,2020-11-16,PM10,11.60367705300971
+3165,2020-11-17,PM10,-12.282846041652387
+3166,2020-11-18,PM10,-8.601165129139565
+3167,2020-11-19,PM10,1.7374885030146174
+3168,2020-11-20,PM10,-28.55463000171618
+3169,2020-11-21,PM10,-55.14846350813299
+3170,2020-11-22,PM10,-50.356206004424656
+3171,2020-11-23,PM10,-10.548256534233431
+3172,2020-11-24,PM10,-5.4427375925896495
+3173,2020-11-25,PM10,9.036826167980564
+3174,2020-11-26,PM10,18.76910138059989
+3175,2020-11-27,PM10,35.20865905693803
+3176,2020-11-28,PM10,49.02420091344017
+3177,2020-11-29,PM10,-14.578930822188315
+3178,2020-11-30,PM10,-10.131947423856584
+3179,2020-12-01,PM10,-25.97731594631734
+3180,2020-12-02,PM10,-72.95556218859426
+3181,2020-12-03,PM10,-60.904498266686005
+3182,2020-12-04,PM10,-79.33232613235181
+3183,2020-12-05,PM10,-68.32368978669324
+3184,2020-12-06,PM10,-65.8185874784958
+3185,2020-12-07,PM10,-72.06881869406118
+3186,2020-12-08,PM10,-67.1226895645544
+3187,2020-12-09,PM10,-66.69505289894623
+3188,2020-12-10,PM10,-41.863149531940785
+3189,2020-12-11,PM10,-33.1158835951093
+3190,2020-12-12,PM10,-34.67303167344365
+3191,2020-12-13,PM10,-23.214133592623266
+3192,2020-12-14,PM10,-4.817251896837961
+3193,2020-12-15,PM10,-3.347189355509176
+3194,2020-12-16,PM10,-32.99326358411077
+3195,2020-12-17,PM10,-37.13349509156456
+3196,2020-12-18,PM10,-6.376390636194403
+3197,2020-12-19,PM10,6.915891069379397
+3198,2020-12-20,PM10,-6.1897081654058494
+3199,2020-12-21,PM10,-24.568659630991213
+3200,2020-12-22,PM10,-11.497818797073773
+3201,2020-12-23,PM10,-19.376161600287112
+3202,2020-12-24,PM10,-47.53409830448586
+3203,2020-12-25,PM10,-73.32192484486981
+3204,2020-12-26,PM10,-75.00105294063994
+3205,2020-12-27,PM10,-50.644615948956336
+3206,2020-12-28,PM10,-53.94153589726485
+3207,2020-12-29,PM10,-23.973388620579197
+3208,2020-12-30,PM10,-35.50601792960672
+3209,2020-12-31,PM10,-36.24601130487578
+3210,2020-02-15,Benzene,-29.254077345264097
+3211,2020-02-16,Benzene,-33.68534598747103
+3212,2020-02-17,Benzene,-30.836562771346117
+3213,2020-02-18,Benzene,-22.41186683027761
+3214,2020-02-19,Benzene,-52.13316308507767
+3215,2020-02-20,Benzene,-53.42246762542625
+3216,2020-02-21,Benzene,-24.389751068451865
+3217,2020-02-22,Benzene,-37.95946084468896
+3218,2020-02-23,Benzene,-28.423282534065702
+3219,2020-02-24,Benzene,-41.28603306162384
+3220,2020-02-25,Benzene,-29.113425176280483
+3221,2020-02-26,Benzene,-60.56878617943693
+3222,2020-02-27,Benzene,-58.39573507482593
+3223,2020-02-28,Benzene,-50.70343644684842
+3224,2020-02-29,Benzene,-42.752124741364206
+3225,2020-03-01,Benzene,-53.296137748908926
+3226,2020-03-02,Benzene,-40.68837785609446
+3227,2020-03-03,Benzene,-55.49110092944688
+3228,2020-03-04,Benzene,-44.73521590718088
+3229,2020-03-05,Benzene,-55.654818446328306
+3230,2020-03-06,Benzene,-41.69530660454934
+3231,2020-03-07,Benzene,-38.49881890405535
+3232,2020-03-08,Benzene,-55.81298829030798
+3233,2020-03-09,Benzene,-47.37948533994463
+3234,2020-03-10,Benzene,-45.251438204931084
+3235,2020-03-11,Benzene,-45.20925420223599
+3236,2020-03-12,Benzene,-61.90093157118997
+3237,2020-03-13,Benzene,-62.20128895611534
+3238,2020-03-14,Benzene,-65.35215725071303
+3239,2020-03-15,Benzene,-62.12677379134675
+3240,2020-03-16,Benzene,-53.61044601556633
+3241,2020-03-17,Benzene,-52.35630587501805
+3242,2020-03-18,Benzene,-52.04264861834329
+3243,2020-03-19,Benzene,-54.869560081293464
+3244,2020-03-20,Benzene,-56.999601476264964
+3245,2020-03-21,Benzene,-60.43204228659471
+3246,2020-03-22,Benzene,-64.03076248136358
+3247,2020-03-23,Benzene,-71.6625161205181
+3248,2020-03-24,Benzene,-70.096038315714
+3249,2020-03-25,Benzene,-65.07459826464027
+3250,2020-03-26,Benzene,-64.9155050882755
+3251,2020-03-27,Benzene,-61.84966158131956
+3252,2020-03-28,Benzene,-58.297218722073495
+3253,2020-03-29,Benzene,-58.16877270431596
+3254,2020-03-30,Benzene,-65.89864991667206
+3255,2020-03-31,Benzene,-67.03007420216635
+3256,2020-04-01,Benzene,-66.66751738058271
+3257,2020-04-02,Benzene,-62.112947208713656
+3258,2020-04-03,Benzene,-58.39936508124642
+3259,2020-04-04,Benzene,-64.6635273516958
+3260,2020-04-05,Benzene,-69.44185399524736
+3261,2020-04-06,Benzene,-66.37615853101887
+3262,2020-04-07,Benzene,-66.66682323820314
+3263,2020-04-08,Benzene,-70.61156489592844
+3264,2020-04-09,Benzene,-67.16275223459799
+3265,2020-04-10,Benzene,-71.23352831568332
+3266,2020-04-11,Benzene,-72.30387408186515
+3267,2020-04-12,Benzene,-78.95667869885428
+3268,2020-04-13,Benzene,-81.86616148880965
+3269,2020-04-14,Benzene,-80.99362513504194
+3270,2020-04-15,Benzene,-81.30263826947815
+3271,2020-04-16,Benzene,-72.15097717823964
+3272,2020-04-17,Benzene,-73.39546917871475
+3273,2020-04-18,Benzene,-72.96720865890121
+3274,2020-04-19,Benzene,-71.47979046142082
+3275,2020-04-20,Benzene,-66.70692304446484
+3276,2020-04-21,Benzene,-68.13171365999338
+3277,2020-04-22,Benzene,-69.03495581797826
+3278,2020-04-23,Benzene,-65.57386241056298
+3279,2020-04-24,Benzene,-73.04505837842343
+3280,2020-04-25,Benzene,-76.78411209001962
+3281,2020-04-26,Benzene,-78.31074880582513
+3282,2020-04-27,Benzene,-74.96014017186671
+3283,2020-04-28,Benzene,-78.72099454984335
+3284,2020-04-29,Benzene,-77.17783350553727
+3285,2020-04-30,Benzene,-77.18844274472123
+3286,2020-05-01,Benzene,-80.8043076600721
+3287,2020-05-02,Benzene,-82.78508481523755
+3288,2020-05-03,Benzene,-84.9725943752057
+3289,2020-05-04,Benzene,-81.45052830767885
+3290,2020-05-05,Benzene,-77.49366367465664
+3291,2020-05-06,Benzene,-80.13927551170995
+3292,2020-05-07,Benzene,-81.91466446508363
+3293,2020-05-08,Benzene,-75.71549068656537
+3294,2020-05-09,Benzene,-80.2531517000556
+3295,2020-05-10,Benzene,-82.7896804485868
+3296,2020-05-11,Benzene,-80.590456021387
+3297,2020-05-12,Benzene,-80.35064780226928
+3298,2020-05-13,Benzene,-72.65263486442615
+3299,2020-05-14,Benzene,-76.08924296996334
+3300,2020-05-15,Benzene,-81.64489234748598
+3301,2020-05-16,Benzene,-80.22076809582207
+3302,2020-05-17,Benzene,-82.49641095355088
+3303,2020-05-18,Benzene,-75.38743241337693
+3304,2020-05-19,Benzene,-77.47799539458158
+3305,2020-05-20,Benzene,-74.71654022352679
+3306,2020-05-21,Benzene,-77.07868727067918
+3307,2020-05-22,Benzene,-74.06043645245144
+3308,2020-05-23,Benzene,-74.99129257083901
+3309,2020-05-24,Benzene,-79.84002478437044
+3310,2020-05-25,Benzene,-78.79344746180266
+3311,2020-05-26,Benzene,-78.35327240265569
+3312,2020-05-27,Benzene,-80.70199898687603
+3313,2020-05-28,Benzene,-77.48513793799218
+3314,2020-05-29,Benzene,-78.78489304059359
+3315,2020-05-30,Benzene,-76.48857816137523
+3316,2020-05-31,Benzene,-80.41286790114613
+3317,2020-06-01,Benzene,-70.772643069899
+3318,2020-06-02,Benzene,-76.75372885974727
+3319,2020-06-03,Benzene,-78.8751938838253
+3320,2020-06-04,Benzene,-78.48283274482257
+3321,2020-06-05,Benzene,-76.8397434016733
+3322,2020-06-06,Benzene,-74.99651894526428
+3323,2020-06-07,Benzene,-80.65354144972946
+3324,2020-06-08,Benzene,-77.350280090651
+3325,2020-06-09,Benzene,-75.19266945915808
+3326,2020-06-10,Benzene,-73.08262492793126
+3327,2020-06-11,Benzene,-77.73765144144521
+3328,2020-06-12,Benzene,-78.558314535622
+3329,2020-06-13,Benzene,-78.55848938999699
+3330,2020-06-14,Benzene,-85.040541929844
+3331,2020-06-15,Benzene,-87.22019370991444
+3332,2020-06-16,Benzene,-86.20799374985197
+3333,2020-06-17,Benzene,-87.45413247678036
+3334,2020-06-18,Benzene,-85.73956216736528
+3335,2020-06-19,Benzene,-85.44017892242535
+3336,2020-06-20,Benzene,-87.33101143262331
+3337,2020-06-21,Benzene,-85.84502298251623
+3338,2020-06-22,Benzene,-83.36526280958432
+3339,2020-06-23,Benzene,-83.36444131148359
+3340,2020-06-24,Benzene,-85.9558407052251
+3341,2020-06-25,Benzene,-87.93715863870122
+3342,2020-06-26,Benzene,-88.1805419080167
+3343,2020-06-27,Benzene,-86.17628022345784
+3344,2020-06-28,Benzene,-87.45948938433828
+3345,2020-06-29,Benzene,-86.75717252485487
+3346,2020-06-30,Benzene,-86.90158870575262
+3347,2020-07-01,Benzene,-87.03539360770344
+3348,2020-07-02,Benzene,-87.81869271305044
+3349,2020-07-03,Benzene,-86.38081963478446
+3350,2020-07-04,Benzene,-87.79551763635452
+3351,2020-07-05,Benzene,-88.08761509171747
+3352,2020-07-06,Benzene,-85.911688557996
+3353,2020-07-07,Benzene,-88.60408862702332
+3354,2020-07-08,Benzene,-88.67100935891737
+3355,2020-07-09,Benzene,-84.97904755876783
+3356,2020-07-10,Benzene,-88.99582672816166
+3357,2020-07-11,Benzene,-90.27295619393125
+3358,2020-07-12,Benzene,-92.6401064764505
+3359,2020-07-13,Benzene,-92.36652358566062
+3360,2020-07-14,Benzene,-92.4399590545005
+3361,2020-07-15,Benzene,-89.34582812372895
+3362,2020-07-16,Benzene,-88.66075434013659
+3363,2020-07-17,Benzene,-88.48774182820448
+3364,2020-07-18,Benzene,-92.15912335607403
+3365,2020-07-19,Benzene,-90.18227440183682
+3366,2020-07-20,Benzene,-90.65923203453231
+3367,2020-07-21,Benzene,-88.5757791470647
+3368,2020-07-22,Benzene,-89.78520486167939
+3369,2020-07-23,Benzene,-90.24989280525642
+3370,2020-07-24,Benzene,-91.67146681933029
+3371,2020-07-25,Benzene,-88.89880281343756
+3372,2020-07-26,Benzene,-90.97080752371096
+3373,2020-07-27,Benzene,-89.25804907721884
+3374,2020-07-28,Benzene,-88.91205384562913
+3375,2020-07-29,Benzene,-88.44189766416527
+3376,2020-07-30,Benzene,-90.29336663800957
+3377,2020-07-31,Benzene,-87.5360301276404
+3378,2020-08-01,Benzene,-89.14602485570038
+3379,2020-08-02,Benzene,-92.48916045651988
+3380,2020-08-03,Benzene,-91.93059914628446
+3381,2020-08-04,Benzene,-90.41018945151608
+3382,2020-08-05,Benzene,-90.27494840300545
+3383,2020-08-06,Benzene,-90.73027729554242
+3384,2020-08-07,Benzene,-85.84864477122981
+3385,2020-08-08,Benzene,-90.68837888569396
+3386,2020-08-09,Benzene,-90.67271970800033
+3387,2020-08-10,Benzene,-91.22476994320574
+3388,2020-08-11,Benzene,-89.81236650066012
+3389,2020-08-12,Benzene,-90.66010048113448
+3390,2020-08-13,Benzene,-92.03002351007724
+3391,2020-08-14,Benzene,-91.50755154062425
+3392,2020-08-15,Benzene,-90.81007880000907
+3393,2020-08-16,Benzene,-91.76261182039566
+3394,2020-08-17,Benzene,-89.82087169199782
+3395,2020-08-18,Benzene,-91.33711059782831
+3396,2020-08-19,Benzene,-91.35754332000265
+3397,2020-08-20,Benzene,-91.41484513147648
+3398,2020-08-21,Benzene,-91.45016558948868
+3399,2020-08-22,Benzene,-88.34944261915682
+3400,2020-08-23,Benzene,-93.07534580642661
+3401,2020-08-24,Benzene,-92.6564484489477
+3402,2020-08-25,Benzene,-91.2510467217493
+3403,2020-08-26,Benzene,-89.21314755299117
+3404,2020-08-27,Benzene,-89.6993463442223
+3405,2020-08-28,Benzene,-89.50542391443332
+3406,2020-08-29,Benzene,-91.41216667769751
+3407,2020-08-30,Benzene,-93.6794692038644
+3408,2020-08-31,Benzene,-90.24841813948686
+3409,2020-09-01,Benzene,-88.35238919133852
+3410,2020-09-02,Benzene,-90.7808630098641
+3411,2020-09-03,Benzene,-86.62015865291735
+3412,2020-09-04,Benzene,-85.25461279318836
+3413,2020-09-05,Benzene,-85.00245328818549
+3414,2020-09-06,Benzene,-87.16562351656383
+3415,2020-09-07,Benzene,-89.67089966016815
+3416,2020-09-08,Benzene,-86.24811706666725
+3417,2020-09-09,Benzene,-81.22124179718205
+3418,2020-09-10,Benzene,-82.75008060206598
+3419,2020-09-11,Benzene,-80.61233469100418
+3420,2020-09-12,Benzene,-81.40059518095421
+3421,2020-09-13,Benzene,-85.87330919696285
+3422,2020-09-14,Benzene,-86.1824407991601
+3423,2020-09-15,Benzene,-86.35528201419753
+3424,2020-09-16,Benzene,-81.31582832760958
+3425,2020-09-17,Benzene,-83.12355613072744
+3426,2020-09-18,Benzene,-83.63905744391963
+3427,2020-09-19,Benzene,-87.43220428766298
+3428,2020-09-20,Benzene,-87.49857724357611
+3429,2020-09-21,Benzene,-87.27890573357493
+3430,2020-09-22,Benzene,-85.91170889312849
+3431,2020-09-23,Benzene,-85.40597263782008
+3432,2020-09-24,Benzene,-85.40555713419577
+3433,2020-09-25,Benzene,-87.79817051266174
+3434,2020-09-26,Benzene,-84.13276372424211
+3435,2020-09-27,Benzene,-86.48389144288177
+3436,2020-09-28,Benzene,-79.49188948462675
+3437,2020-09-29,Benzene,-72.83889420570851
+3438,2020-09-30,Benzene,-72.65577320564967
+3439,2020-10-01,Benzene,-75.78379330465317
+3440,2020-10-02,Benzene,-76.42586073734206
+3441,2020-10-03,Benzene,-86.2081712481393
+3442,2020-10-04,Benzene,-86.52731396886928
+3443,2020-10-05,Benzene,-80.18660989826822
+3444,2020-10-06,Benzene,-72.4653101782203
+3445,2020-10-07,Benzene,-69.02828540301176
+3446,2020-10-08,Benzene,-64.40735703088087
+3447,2020-10-09,Benzene,-62.446485795466685
+3448,2020-10-10,Benzene,-65.96356730868258
+3449,2020-10-11,Benzene,-82.28620994086144
+3450,2020-10-12,Benzene,-71.50301159307085
+3451,2020-10-13,Benzene,-63.111928193618816
+3452,2020-10-14,Benzene,-72.67914562919283
+3453,2020-10-15,Benzene,-73.57179581680356
+3454,2020-10-16,Benzene,-62.32254077302813
+3455,2020-10-17,Benzene,-56.53816893115309
+3456,2020-10-18,Benzene,-64.8068954573517
+3457,2020-10-19,Benzene,-63.3808517522148
+3458,2020-10-20,Benzene,-54.82586052724696
+3459,2020-10-21,Benzene,-58.7591305882738
+3460,2020-10-22,Benzene,-52.00558275615776
+3461,2020-10-23,Benzene,-53.57542292280149
+3462,2020-10-24,Benzene,-59.15089975791369
+3463,2020-10-25,Benzene,-64.5560865827597
+3464,2020-10-26,Benzene,-68.1968441753212
+3465,2020-10-27,Benzene,-72.382352958978
+3466,2020-10-28,Benzene,-60.52426241796203
+3467,2020-10-29,Benzene,-40.89971924368026
+3468,2020-10-30,Benzene,-20.314092854964198
+3469,2020-10-31,Benzene,-7.756696428571422
+3470,2020-11-01,Benzene,-23.708545918367335
+3471,2020-11-02,Benzene,-45.7051532041846
+3472,2020-11-03,Benzene,-46.67675815646464
+3473,2020-11-04,Benzene,-61.24852146368539
+3474,2020-11-05,Benzene,-45.52122794601693
+3475,2020-11-06,Benzene,-51.91613161052813
+3476,2020-11-07,Benzene,-44.03741689163783
+3477,2020-11-08,Benzene,-50.045772413718986
+3478,2020-11-09,Benzene,-41.467723239623915
+3479,2020-11-10,Benzene,-33.29368033300403
+3480,2020-11-11,Benzene,-40.222720455284424
+3481,2020-11-12,Benzene,-67.34409254078612
+3482,2020-11-13,Benzene,-51.02042243311998
+3483,2020-11-14,Benzene,-46.995954000118275
+3484,2020-11-15,Benzene,-52.57525312027
+3485,2020-11-16,Benzene,-39.44241093427683
+3486,2020-11-17,Benzene,-39.718172198551905
+3487,2020-11-18,Benzene,-21.275515465202414
+3488,2020-11-19,Benzene,-21.194129539029852
+3489,2020-11-20,Benzene,-32.18407831945482
+3490,2020-11-21,Benzene,-59.968031029957615
+3491,2020-11-22,Benzene,-54.819800438500096
+3492,2020-11-23,Benzene,-23.924977515329463
+3493,2020-11-24,Benzene,-9.521391435238606
+3494,2020-11-25,Benzene,14.22920138258879
+3495,2020-11-26,Benzene,25.81383993269539
+3496,2020-11-27,Benzene,25.262317594336434
+3497,2020-11-28,Benzene,17.880459351075718
+3498,2020-11-29,Benzene,-24.6370147873252
+3499,2020-11-30,Benzene,-27.35969919133886
+3500,2020-12-01,Benzene,-36.29441459356325
+3501,2020-12-02,Benzene,-45.29159624839471
+3502,2020-12-03,Benzene,-26.23122366456363
+3503,2020-12-04,Benzene,-18.225579615189172
+3504,2020-12-05,Benzene,-5.665352565608939
+3505,2020-12-06,Benzene,-28.16028329331476
+3506,2020-12-07,Benzene,-33.2581855315388
+3507,2020-12-08,Benzene,-39.80881138137587
+3508,2020-12-09,Benzene,-20.733017258776645
+3509,2020-12-10,Benzene,-2.513634508170817
+3510,2020-12-11,Benzene,17.018624557579674
+3511,2020-12-12,Benzene,4.072996442019875
+3512,2020-12-13,Benzene,20.117070921204284
+3513,2020-12-14,Benzene,44.860640055505314
+3514,2020-12-15,Benzene,27.843964764687566
+3515,2020-12-16,Benzene,-1.302364885912283
+3516,2020-12-17,Benzene,13.526347755934191
+3517,2020-12-18,Benzene,26.365575336622697
+3518,2020-12-19,Benzene,30.397621430217747
+3519,2020-12-20,Benzene,38.59614158163268
+3520,2020-12-21,Benzene,7.639113529442645
+3521,2020-12-22,Benzene,47.71292209295951
+3522,2020-12-23,Benzene,18.87964861371667
+3523,2020-12-24,Benzene,-26.72459112999017
+3524,2020-12-25,Benzene,-45.30306869691285
+3525,2020-12-26,Benzene,-43.58425251556508
+3526,2020-12-27,Benzene,-19.91190827430752
+3527,2020-12-28,Benzene,-25.62178126704988
+3528,2020-12-29,Benzene,13.226435223922897
+3529,2020-12-30,Benzene,1.3300035688837657
+3530,2020-12-31,Benzene,-2.7027258873803155
