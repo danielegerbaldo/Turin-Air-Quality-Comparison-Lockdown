@@ -3,16 +3,15 @@
 
 ### Mobility Data
 Provided by:
-Google LLC "Google COVID-19 Community Mobility Reports". https://www.google.com/covid19/mobility/
+Google LLC [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/). 
 
 ### Air Quality Data
 Provided by:
 Arpa Piemonte
-Dipartimento Rischi naturali e ambientali
-https://aria.ambiente.piemonte.it/
+[Natural and Environmental Risks Department](https://aria.ambiente.piemonte.it/)
 
 ### Weather Data
 Provided by:
 Arpa Piemonte
-Banca Dati Metereologica
-https://www.arpa.piemonte.it/rischinaturali/accesso-ai-dati/annali_meteoidrologici/annali-meteo-idro/banca-dati-meteorologica.html
+[Meteorological database](https://www.arpa.piemonte.it/rischinaturali/accesso-ai-dati/annali_meteoidrologici/annali-meteo-idro/banca-dati-meteorologica.html)
+
